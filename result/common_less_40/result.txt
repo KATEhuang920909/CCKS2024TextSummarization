@@ -1,0 +1,1000 @@
+{"summarizations": [{"id": "10631_1", "event-summarization": "test"}, {"id": "10631_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13815_1", "event-summarization": "test"}, {"id": "13815_2", "event-summarization": "test"}, {"id": "13815_3", "event-summarization": "test"}, {"id": "13815_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1008_1", "event-summarization": "test"}, {"id": "1008_2", "event-summarization": "执法人员当即对涉案食品进行了查扣，经过两个月的立案查处。"}]}
+{"summarizations": [{"id": "5605_1", "event-summarization": "test"}, {"id": "5605_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18195_1", "event-summarization": "test"}, {"id": "18195_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11076_1", "event-summarization": "test"}, {"id": "11076_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15279_1", "event-summarization": "test"}, {"id": "15279_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14769_1", "event-summarization": "test"}, {"id": "14769_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18013_1", "event-summarization": "test"}, {"id": "18013_2", "event-summarization": "日前，日前，贵港市人民检察院依法以涉嫌受贿罪对黄志愿作出逮捕决定。日前，日前，"}, {"id": "18013_3", "event-summarization": "日前，日前，日前，玉林市人民检察院依法以涉嫌受贿罪对余治平作出逮捕决定。日前，"}, {"id": "18013_4", "event-summarization": "日前，日前，日前，日前，林芝市人民检察院依法以涉嫌受贿罪对赵明作出逮捕决定。"}]}
+{"summarizations": [{"id": "64_1", "event-summarization": "test"}, {"id": "64_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4659_1", "event-summarization": "test"}, {"id": "4659_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6921_1", "event-summarization": "test"}, {"id": "6921_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8195_1", "event-summarization": "test"}, {"id": "8195_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15704_1", "event-summarization": "test"}, {"id": "15704_2", "event-summarization": "test"}, {"id": "15704_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9781_1", "event-summarization": "test"}, {"id": "9781_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19775_1", "event-summarization": "test"}, {"id": "19775_2", "event-summarization": "test"}, {"id": "19775_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15340_1", "event-summarization": "test"}, {"id": "15340_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "36_1", "event-summarization": "印度持续高温50度致逾千人死亡未来有望降雨"}, {"id": "36_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16575_1", "event-summarization": "test"}, {"id": "16575_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2576_1", "event-summarization": "test"}, {"id": "2576_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13723_1", "event-summarization": "test"}, {"id": "13723_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9334_1", "event-summarization": "test"}, {"id": "9334_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7856_1", "event-summarization": "test"}, {"id": "7856_2", "event-summarization": "test"}, {"id": "7856_3", "event-summarization": "test"}, {"id": "7856_4", "event-summarization": "test"}, {"id": "7856_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19160_1", "event-summarization": "test"}, {"id": "19160_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7944_1", "event-summarization": "圣彼得堡地铁3日发生爆炸，导致14人死亡，50多人受伤。"}, {"id": "7944_2", "event-summarization": "test"}, {"id": "7944_3", "event-summarization": "执法人员6日逮捕8名嫌疑人，其中6人在圣彼得堡被抓获，两人在莫斯科被抓获。"}]}
+{"summarizations": [{"id": "271_1", "event-summarization": "test"}, {"id": "271_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16727_1", "event-summarization": "test"}, {"id": "16727_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9483_1", "event-summarization": "test"}, {"id": "9483_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12683_1", "event-summarization": "test"}, {"id": "12683_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4436_1", "event-summarization": "test"}, {"id": "4436_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2592_1", "event-summarization": "test"}, {"id": "2592_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18857_1", "event-summarization": "test"}, {"id": "18857_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5101_1", "event-summarization": "test"}, {"id": "5101_2", "event-summarization": "test"}, {"id": "5101_3", "event-summarization": "test"}, {"id": "5101_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8297_1", "event-summarization": "test"}, {"id": "8297_2", "event-summarization": "test"}, {"id": "8297_3", "event-summarization": "王某，31岁，黑龙江人，曾因盗窃罪于2009年7月被判处有期徒刑一年，"}, {"id": "8297_4", "event-summarization": "test"}, {"id": "8297_5", "event-summarization": "test"}, {"id": "8297_6", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11979_1", "event-summarization": "test"}, {"id": "11979_2", "event-summarization": "test"}, {"id": "11979_3", "event-summarization": "test"}, {"id": "11979_4", "event-summarization": "test"}, {"id": "11979_5", "event-summarization": "test"}, {"id": "11979_6", "event-summarization": "test"}, {"id": "11979_7", "event-summarization": "test"}, {"id": "11979_8", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7604_1", "event-summarization": "test"}, {"id": "7604_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13128_1", "event-summarization": "test"}, {"id": "13128_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7619_1", "event-summarization": "test"}, {"id": "7619_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "591_1", "event-summarization": "test"}, {"id": "591_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2072_1", "event-summarization": "test"}, {"id": "2072_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10008_1", "event-summarization": "test"}, {"id": "10008_2", "event-summarization": "test"}, {"id": "10008_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3028_1", "event-summarization": "test"}, {"id": "3028_2", "event-summarization": "这个旅行团于当日上午10时半被挟持，其后枪手先后释放9名人质。"}]}
+{"summarizations": [{"id": "5338_1", "event-summarization": "test"}, {"id": "5338_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6823_1", "event-summarization": "test"}, {"id": "6823_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "192_1", "event-summarization": "test"}, {"id": "192_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5394_1", "event-summarization": "test"}, {"id": "5394_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3730_1", "event-summarization": "test"}, {"id": "3730_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "930_1", "event-summarization": "test"}, {"id": "930_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4192_1", "event-summarization": "test"}, {"id": "4192_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2602_1", "event-summarization": "test"}, {"id": "2602_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "418_1", "event-summarization": "test"}, {"id": "418_2", "event-summarization": "test"}, {"id": "418_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6906_1", "event-summarization": "test"}, {"id": "6906_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6105_1", "event-summarization": "test"}, {"id": "6105_2", "event-summarization": "test"}, {"id": "6105_3", "event-summarization": "test"}, {"id": "6105_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2960_1", "event-summarization": "test"}, {"id": "2960_2", "event-summarization": "11月29日，长沙警方迅速侦破此案并擒获了犯罪嫌疑人。"}]}
+{"summarizations": [{"id": "1332_1", "event-summarization": "test"}, {"id": "1332_2", "event-summarization": "test"}, {"id": "1332_3", "event-summarization": "据估算，全球每年共发生300至500万霍乱病例，导致10至12万人死亡。"}, {"id": "1332_4", "event-summarization": "据估算，全球每年共发生300至500万霍乱病例，导致10至12万人死亡。"}]}
+{"summarizations": [{"id": "11418_1", "event-summarization": "test"}, {"id": "11418_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4387_1", "event-summarization": "test"}, {"id": "4387_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2561_1", "event-summarization": "test"}, {"id": "2561_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6324_1", "event-summarization": "test"}, {"id": "6324_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18256_1", "event-summarization": "上周广州32种主要蔬菜综合零售均价6.63元/公斤，周环比上升2.79%。"}, {"id": "18256_2", "event-summarization": "test"}, {"id": "18256_3", "event-summarization": "test"}, {"id": "18256_4", "event-summarization": "test"}, {"id": "18256_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "227_1", "event-summarization": "test"}, {"id": "227_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17533_1", "event-summarization": "test"}, {"id": "17533_2", "event-summarization": "test"}, {"id": "17533_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6670_1", "event-summarization": "test"}, {"id": "6670_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1750_1", "event-summarization": "test"}, {"id": "1750_2", "event-summarization": "test"}, {"id": "1750_3", "event-summarization": "今年10月23日，凡省发生里氏7.2级地震。"}, {"id": "1750_4", "event-summarization": "地震造成了605人死亡、4152人受伤。"}]}
+{"summarizations": [{"id": "1148_1", "event-summarization": "test"}, {"id": "1148_2", "event-summarization": "test"}, {"id": "1148_3", "event-summarization": "test"}, {"id": "1148_4", "event-summarization": "test"}, {"id": "1148_5", "event-summarization": "test"}, {"id": "1148_6", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3136_1", "event-summarization": "康泰旅行社公布8名在菲被劫持游客遇难者名单——中新"}, {"id": "3136_2", "event-summarization": "康泰旅行社公布8名在菲被劫持游客遇难者名单——中新"}]}
+{"summarizations": [{"id": "17683_1", "event-summarization": "test"}, {"id": "17683_2", "event-summarization": "test"}, {"id": "17683_3", "event-summarization": "test"}, {"id": "17683_4", "event-summarization": "test"}, {"id": "17683_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5695_1", "event-summarization": "test"}, {"id": "5695_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2707_1", "event-summarization": "test"}, {"id": "2707_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4670_1", "event-summarization": "test"}, {"id": "4670_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "131_1", "event-summarization": "test"}, {"id": "131_2", "event-summarization": "警方经过5个多小时斡旋，于当晚20时15分成功将其擒获。20时15分，"}]}
+{"summarizations": [{"id": "16623_1", "event-summarization": "test"}, {"id": "16623_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1841_1", "event-summarization": "test"}, {"id": "1841_2", "event-summarization": "test"}, {"id": "1841_3", "event-summarization": "test"}, {"id": "1841_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "59_1", "event-summarization": "同时俄罗斯基金成交量下跌了6.8%；卢布对美元的汇率再次走低；"}, {"id": "59_2", "event-summarization": "而月份西德克萨斯轻原油4月份期货价格降上涨2.3%，达到每桶104.92美元；"}, {"id": "59_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10409_1", "event-summarization": "test"}, {"id": "10409_2", "event-summarization": "test"}, {"id": "10409_3", "event-summarization": "test"}, {"id": "10409_4", "event-summarization": "test"}, {"id": "10409_5", "event-summarization": "test"}, {"id": "10409_6", "event-summarization": "test"}, {"id": "10409_7", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5335_1", "event-summarization": "test"}, {"id": "5335_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13408_1", "event-summarization": "test"}, {"id": "13408_2", "event-summarization": "test"}, {"id": "13408_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "268_1", "event-summarization": "test"}, {"id": "268_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11826_1", "event-summarization": "test"}, {"id": "11826_2", "event-summarization": "test"}, {"id": "11826_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15557_1", "event-summarization": "test"}, {"id": "15557_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15252_1", "event-summarization": "test"}, {"id": "15252_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10623_1", "event-summarization": "test"}, {"id": "10623_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "85_1", "event-summarization": "test"}, {"id": "85_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11373_1", "event-summarization": "test"}, {"id": "11373_2", "event-summarization": "test"}, {"id": "11373_3", "event-summarization": "而胡斌最后也因交通肇事罪被判3年。"}]}
+{"summarizations": [{"id": "1829_1", "event-summarization": "test"}, {"id": "1829_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5867_1", "event-summarization": "test"}, {"id": "5867_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11283_1", "event-summarization": "test"}, {"id": "11283_2", "event-summarization": "test"}, {"id": "11283_3", "event-summarization": "test"}, {"id": "11283_4", "event-summarization": "test"}, {"id": "11283_5", "event-summarization": "test"}, {"id": "11283_6", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2720_1", "event-summarization": "test"}, {"id": "2720_2", "event-summarization": "test"}, {"id": "2720_3", "event-summarization": "test"}, {"id": "2720_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17200_1", "event-summarization": "test"}, {"id": "17200_2", "event-summarization": "2016年11月，赵某的外甥徐某因涉嫌强奸罪被榆阳公安依法刑事拘留。"}, {"id": "17200_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9241_1", "event-summarization": "test"}, {"id": "9241_2", "event-summarization": "test"}, {"id": "9241_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8536_1", "event-summarization": "test"}, {"id": "8536_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17100_1", "event-summarization": "test"}, {"id": "17100_2", "event-summarization": "test"}, {"id": "17100_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15581_1", "event-summarization": "test"}, {"id": "15581_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11446_1", "event-summarization": "test"}, {"id": "11446_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1827_1", "event-summarization": "土耳其总理称地震已造成138人死亡350人受伤——中新350人受伤。"}, {"id": "1827_2", "event-summarization": "test"}, {"id": "1827_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17038_1", "event-summarization": "test"}, {"id": "17038_2", "event-summarization": "test"}, {"id": "17038_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2763_1", "event-summarization": "test"}, {"id": "2763_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5107_1", "event-summarization": "test"}, {"id": "5107_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1919_1", "event-summarization": "test"}, {"id": "1919_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8639_1", "event-summarization": "test"}, {"id": "8639_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13603_1", "event-summarization": "test"}, {"id": "13603_2", "event-summarization": "日本大阪一警官入室偷盗高龄者数百万现金被捕。"}]}
+{"summarizations": [{"id": "18855_1", "event-summarization": "test"}, {"id": "18855_2", "event-summarization": "test"}, {"id": "18855_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "380_1", "event-summarization": "test"}, {"id": "380_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5499_1", "event-summarization": "test"}, {"id": "5499_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6323_1", "event-summarization": "test"}, {"id": "6323_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8694_1", "event-summarization": "test"}, {"id": "8694_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4113_1", "event-summarization": "test"}, {"id": "4113_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18521_1", "event-summarization": "test"}, {"id": "18521_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19205_1", "event-summarization": "test"}, {"id": "19205_2", "event-summarization": "test"}, {"id": "19205_3", "event-summarization": "test"}, {"id": "19205_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6250_1", "event-summarization": "阿强被石市长安区法院判决犯抢劫罪，判处其有期徒刑三年，罚金1000元。"}, {"id": "6250_2", "event-summarization": "test"}, {"id": "6250_3", "event-summarization": "test"}, {"id": "6250_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "120_1", "event-summarization": "test"}, {"id": "120_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13296_1", "event-summarization": "test"}, {"id": "13296_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10248_1", "event-summarization": "test"}, {"id": "10248_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16455_1", "event-summarization": "test"}, {"id": "16455_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15806_1", "event-summarization": "test"}, {"id": "15806_2", "event-summarization": "test"}, {"id": "15806_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2717_1", "event-summarization": "test"}, {"id": "2717_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16409_1", "event-summarization": "test"}, {"id": "16409_2", "event-summarization": "日前，日前，日前，赣州市人民检察院依法以涉嫌受贿罪对袁守旺作出逮捕决定。日前，"}, {"id": "16409_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9885_1", "event-summarization": "test"}, {"id": "9885_2", "event-summarization": "test"}, {"id": "9885_3", "event-summarization": "10月16日，陕西省铜川市耀州区一煤矿发生重大瓦斯爆炸事故，造成11人死亡。"}, {"id": "9885_4", "event-summarization": "10月16日，陕西省铜川市耀州区一煤矿发生重大瓦斯爆炸事故，造成11人死亡。"}]}
+{"summarizations": [{"id": "11404_1", "event-summarization": "test"}, {"id": "11404_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6529_1", "event-summarization": "test"}, {"id": "6529_2", "event-summarization": "1月3日上午，程某趁王小姐不在家，拿着钥匙进去偷走了800元现金。"}, {"id": "6529_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "801_1", "event-summarization": "test"}, {"id": "801_2", "event-summarization": "test"}, {"id": "801_3", "event-summarization": "test"}, {"id": "801_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1458_1", "event-summarization": "test"}, {"id": "1458_2", "event-summarization": "test"}, {"id": "1458_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5246_1", "event-summarization": "test"}, {"id": "5246_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "906_1", "event-summarization": "test"}, {"id": "906_2", "event-summarization": "test"}, {"id": "906_3", "event-summarization": "2013年1月，土耳其西北部宗古尔达克省发生煤矿瓦斯爆炸事故，造成8人死亡。"}, {"id": "906_4", "event-summarization": "2013年1月，土耳其西北部宗古尔达克省发生煤矿瓦斯爆炸事故，造成8人死亡。"}]}
+{"summarizations": [{"id": "15916_1", "event-summarization": "test"}, {"id": "15916_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6001_1", "event-summarization": "test"}, {"id": "6001_2", "event-summarization": "昨日，记者从长丰县人民法院了解到，杨某因犯放火罪，被判处有期徒刑五年零六个月。"}, {"id": "6001_3", "event-summarization": "杨某十年前就曾因抢劫、盗窃被判入狱八年零三个月。"}]}
+{"summarizations": [{"id": "10171_1", "event-summarization": "test"}, {"id": "10171_2", "event-summarization": "test"}, {"id": "10171_3", "event-summarization": "test"}, {"id": "10171_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1646_1", "event-summarization": "test"}, {"id": "1646_2", "event-summarization": "内蒙古自治区确诊的2名腺鼠疫病例，总体情况平稳。"}]}
+{"summarizations": [{"id": "15471_1", "event-summarization": "test"}, {"id": "15471_2", "event-summarization": "test"}, {"id": "15471_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5419_1", "event-summarization": "test"}, {"id": "5419_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2254_1", "event-summarization": "test"}, {"id": "2254_2", "event-summarization": "test"}, {"id": "2254_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12763_1", "event-summarization": "test"}, {"id": "12763_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19298_1", "event-summarization": "test"}, {"id": "19298_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2121_1", "event-summarization": "test"}, {"id": "2121_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2821_1", "event-summarization": "test"}, {"id": "2821_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5882_1", "event-summarization": "test"}, {"id": "5882_2", "event-summarization": "test"}, {"id": "5882_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8087_1", "event-summarization": "test"}, {"id": "8087_2", "event-summarization": "test"}, {"id": "8087_3", "event-summarization": "test"}, {"id": "8087_4", "event-summarization": "test"}, {"id": "8087_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17524_1", "event-summarization": "test"}, {"id": "17524_2", "event-summarization": "日前，陈某因涉嫌诈骗罪被苏州市相城区检察院依法批捕。"}]}
+{"summarizations": [{"id": "9167_1", "event-summarization": "test"}, {"id": "9167_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18667_1", "event-summarization": "test"}, {"id": "18667_2", "event-summarization": "test"}, {"id": "18667_3", "event-summarization": "test"}, {"id": "18667_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12066_1", "event-summarization": "test"}, {"id": "12066_2", "event-summarization": "test"}, {"id": "12066_3", "event-summarization": "test"}, {"id": "12066_4", "event-summarization": "test"}, {"id": "12066_5", "event-summarization": "test"}, {"id": "12066_6", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4562_1", "event-summarization": "test"}, {"id": "4562_2", "event-summarization": "test"}, {"id": "4562_3", "event-summarization": "test"}, {"id": "4562_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2833_1", "event-summarization": "test"}, {"id": "2833_2", "event-summarization": "test"}, {"id": "2833_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13407_1", "event-summarization": "test"}, {"id": "13407_2", "event-summarization": "test"}, {"id": "13407_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3985_1", "event-summarization": "test"}, {"id": "3985_2", "event-summarization": "test"}, {"id": "3985_3", "event-summarization": "test"}, {"id": "3985_4", "event-summarization": "test"}, {"id": "3985_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3687_1", "event-summarization": "test"}, {"id": "3687_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7921_1", "event-summarization": "test"}, {"id": "7921_2", "event-summarization": "test"}, {"id": "7921_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1866_1", "event-summarization": "test"}, {"id": "1866_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9686_1", "event-summarization": "test"}, {"id": "9686_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13798_1", "event-summarization": "据张一千律师介绍，韩某某曾被当地警方治安处罚拘留15天，罚款5000元。"}, {"id": "13798_2", "event-summarization": "test"}, {"id": "13798_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19480_1", "event-summarization": "test"}, {"id": "19480_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15887_1", "event-summarization": "test"}, {"id": "15887_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13168_1", "event-summarization": "test"}, {"id": "13168_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5771_1", "event-summarization": "最终，由于阮文辉脑部重伤伤势过重，他最终因抢救无效于10日死亡。"}, {"id": "5771_2", "event-summarization": "test"}, {"id": "5771_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5215_1", "event-summarization": "test"}, {"id": "5215_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5200_1", "event-summarization": "test"}, {"id": "5200_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2442_1", "event-summarization": "test"}, {"id": "2442_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4633_1", "event-summarization": "同年12月9日，北平学联的6000余名爱国学生举行了抗日救国示威游行。"}, {"id": "4633_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14151_1", "event-summarization": "test"}, {"id": "14151_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7684_1", "event-summarization": "test"}, {"id": "7684_2", "event-summarization": "test"}, {"id": "7684_3", "event-summarization": "test"}, {"id": "7684_4", "event-summarization": "test"}, {"id": "7684_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6420_1", "event-summarization": "test"}, {"id": "6420_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19806_1", "event-summarization": "test"}, {"id": "19806_2", "event-summarization": "test"}, {"id": "19806_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6034_1", "event-summarization": "test"}, {"id": "6034_2", "event-summarization": "test"}, {"id": "6034_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5827_1", "event-summarization": "test"}, {"id": "5827_2", "event-summarization": "地铁警方将其移交给鼓楼警方，吕某因抢劫罪被鼓楼公安分局刑事拘留。"}, {"id": "5827_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "810_1", "event-summarization": "test"}, {"id": "810_2", "event-summarization": "同时，去年重庆发生煤矿事故136起，造成174人死亡；同时，"}, {"id": "810_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4447_1", "event-summarization": "test"}, {"id": "4447_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18108_1", "event-summarization": "test"}, {"id": "18108_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5702_1", "event-summarization": "test"}, {"id": "5702_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14912_1", "event-summarization": "test"}, {"id": "14912_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15961_1", "event-summarization": "test"}, {"id": "15961_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8995_1", "event-summarization": "test"}, {"id": "8995_2", "event-summarization": "在尼泊尔，洪水和山体滑坡已造成近110人死亡。"}, {"id": "8995_3", "event-summarization": "在尼泊尔，洪水和山体滑坡已造成近110人死亡。"}]}
+{"summarizations": [{"id": "6562_1", "event-summarization": "test"}, {"id": "6562_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3341_1", "event-summarization": "test"}, {"id": "3341_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13518_1", "event-summarization": "test"}, {"id": "13518_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14861_1", "event-summarization": "test"}, {"id": "14861_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10016_1", "event-summarization": "test"}, {"id": "10016_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3487_1", "event-summarization": "test"}, {"id": "3487_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18750_1", "event-summarization": "test"}, {"id": "18750_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19149_1", "event-summarization": "test"}, {"id": "19149_2", "event-summarization": "test"}, {"id": "19149_3", "event-summarization": "test"}, {"id": "19149_4", "event-summarization": "本月14日，特拉维夫遭到两枚火箭弹袭击，无人员伤亡。"}]}
+{"summarizations": [{"id": "9308_1", "event-summarization": "test"}, {"id": "9308_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13251_1", "event-summarization": "test"}, {"id": "13251_2", "event-summarization": "丁先生不服处罚决定，向法院提起诉讼。近日，海淀法院经审理，判决驳回其诉讼请求。"}]}
+{"summarizations": [{"id": "5503_1", "event-summarization": "test"}, {"id": "5503_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11488_1", "event-summarization": "test"}, {"id": "11488_2", "event-summarization": "test"}, {"id": "11488_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12265_1", "event-summarization": "test"}, {"id": "12265_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6713_1", "event-summarization": "test"}, {"id": "6713_2", "event-summarization": "test"}, {"id": "6713_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12945_1", "event-summarization": "test"}, {"id": "12945_2", "event-summarization": "test"}, {"id": "12945_3", "event-summarization": "test"}, {"id": "12945_4", "event-summarization": "test"}, {"id": "12945_5", "event-summarization": "test"}, {"id": "12945_6", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19354_1", "event-summarization": "25日当天，北海道札幌中央警署就以涉嫌恐吓威胁的罪名逮捕了山崎。"}, {"id": "19354_2", "event-summarization": "test"}, {"id": "19354_3", "event-summarization": "test"}, {"id": "19354_4", "event-summarization": "test"}, {"id": "19354_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "903_1", "event-summarization": "test"}, {"id": "903_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5559_1", "event-summarization": "test"}, {"id": "5559_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7618_1", "event-summarization": "test"}, {"id": "7618_2", "event-summarization": "test"}, {"id": "7618_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18989_1", "event-summarization": "test"}, {"id": "18989_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4340_1", "event-summarization": "test"}, {"id": "4340_2", "event-summarization": "test"}, {"id": "4340_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10745_1", "event-summarization": "test"}, {"id": "10745_2", "event-summarization": "test"}, {"id": "10745_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11299_1", "event-summarization": "test"}, {"id": "11299_2", "event-summarization": "test"}, {"id": "11299_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8403_1", "event-summarization": "test"}, {"id": "8403_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15983_1", "event-summarization": "test"}, {"id": "15983_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16203_1", "event-summarization": "test"}, {"id": "16203_2", "event-summarization": "test"}, {"id": "16203_3", "event-summarization": "test"}, {"id": "16203_4", "event-summarization": "test"}, {"id": "16203_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5185_1", "event-summarization": "test"}, {"id": "5185_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8544_1", "event-summarization": "test"}, {"id": "8544_2", "event-summarization": "test"}, {"id": "8544_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15180_1", "event-summarization": "test"}, {"id": "15180_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18186_1", "event-summarization": "test"}, {"id": "18186_2", "event-summarization": "test"}, {"id": "18186_3", "event-summarization": "日前，日前，日前，鄱阳县人民检察院依法以涉嫌受贿罪对黄胜富作出逮捕决定。"}]}
+{"summarizations": [{"id": "19779_1", "event-summarization": "test"}, {"id": "19779_2", "event-summarization": "test"}, {"id": "19779_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15478_1", "event-summarization": "test"}, {"id": "15478_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1322_1", "event-summarization": "test"}, {"id": "1322_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14059_1", "event-summarization": "test"}, {"id": "14059_2", "event-summarization": "test"}, {"id": "14059_3", "event-summarization": "test"}, {"id": "14059_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4240_1", "event-summarization": "test"}, {"id": "4240_2", "event-summarization": "test"}, {"id": "4240_3", "event-summarization": "test"}, {"id": "4240_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10880_1", "event-summarization": "test"}, {"id": "10880_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2752_1", "event-summarization": "test"}, {"id": "2752_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15427_1", "event-summarization": "test"}, {"id": "15427_2", "event-summarization": "test"}, {"id": "15427_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4943_1", "event-summarization": "test"}, {"id": "4943_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17999_1", "event-summarization": "test"}, {"id": "17999_2", "event-summarization": "test"}, {"id": "17999_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2729_1", "event-summarization": "test"}, {"id": "2729_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7696_1", "event-summarization": "test"}, {"id": "7696_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5131_1", "event-summarization": "test"}, {"id": "5131_2", "event-summarization": "test"}, {"id": "5131_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16659_1", "event-summarization": "test"}, {"id": "16659_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14174_1", "event-summarization": "test"}, {"id": "14174_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19822_1", "event-summarization": "test"}, {"id": "19822_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16855_1", "event-summarization": "test"}, {"id": "16855_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3532_1", "event-summarization": "test"}, {"id": "3532_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12759_1", "event-summarization": "test"}, {"id": "12759_2", "event-summarization": "test"}, {"id": "12759_3", "event-summarization": "test"}, {"id": "12759_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7959_1", "event-summarization": "test"}, {"id": "7959_2", "event-summarization": "test"}, {"id": "7959_3", "event-summarization": "test"}, {"id": "7959_4", "event-summarization": "test"}, {"id": "7959_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19786_1", "event-summarization": "test"}, {"id": "19786_2", "event-summarization": "test"}, {"id": "19786_3", "event-summarization": "test"}, {"id": "19786_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5498_1", "event-summarization": "test"}, {"id": "5498_2", "event-summarization": "test"}, {"id": "5498_3", "event-summarization": "老板欲将龙某赶出宾馆，他便打电话报警举报该宾馆有卖淫嫖娼。"}, {"id": "5498_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "81_1", "event-summarization": "“北冰洋”号货船曾遭劫持 八名劫匪全部抓获——中新"}, {"id": "81_2", "event-summarization": "“北冰洋”号货船曾遭劫持 八名劫匪全部抓获——中新"}]}
+{"summarizations": [{"id": "19865_1", "event-summarization": "test"}, {"id": "19865_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11423_1", "event-summarization": "test"}, {"id": "11423_2", "event-summarization": "test"}, {"id": "11423_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4401_1", "event-summarization": "从2005年开始，每年电梯事故起数平均在40起、死亡人数在30人左右。"}, {"id": "4401_2", "event-summarization": "从2005年开始，每年电梯事故起数平均在40起、死亡人数在30人左右。"}]}
+{"summarizations": [{"id": "8300_1", "event-summarization": "2月5日，漳州市芗城区检察院以涉嫌盗窃罪、抢劫罪批准逮捕李威。"}, {"id": "8300_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9481_1", "event-summarization": "test"}, {"id": "9481_2", "event-summarization": "“卡特里娜”飓风造成1800多人丧生，是美国历史上最严重的自然灾害之一。”"}, {"id": "9481_3", "event-summarization": "test"}, {"id": "9481_4", "event-summarization": "“卡特里娜”飓风造成1800多人丧生，是美国历史上最严重的自然灾害之一。”"}]}
+{"summarizations": [{"id": "863_1", "event-summarization": "test"}, {"id": "863_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18235_1", "event-summarization": "test"}, {"id": "18235_2", "event-summarization": "test"}, {"id": "18235_3", "event-summarization": "test"}, {"id": "18235_4", "event-summarization": "test"}, {"id": "18235_5", "event-summarization": "test"}, {"id": "18235_6", "event-summarization": "test"}, {"id": "18235_7", "event-summarization": "test"}, {"id": "18235_8", "event-summarization": "test"}, {"id": "18235_9", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9070_1", "event-summarization": "test"}, {"id": "9070_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17548_1", "event-summarization": "test"}, {"id": "17548_2", "event-summarization": "test"}, {"id": "17548_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8153_1", "event-summarization": "test"}, {"id": "8153_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13982_1", "event-summarization": "test"}, {"id": "13982_2", "event-summarization": "test"}, {"id": "13982_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8123_1", "event-summarization": "test"}, {"id": "8123_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4010_1", "event-summarization": "test"}, {"id": "4010_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11645_1", "event-summarization": "test"}, {"id": "11645_2", "event-summarization": "test"}, {"id": "11645_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3190_1", "event-summarization": "test"}, {"id": "3190_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9829_1", "event-summarization": "test"}, {"id": "9829_2", "event-summarization": "test"}, {"id": "9829_3", "event-summarization": "test"}, {"id": "9829_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6330_1", "event-summarization": "test"}, {"id": "6330_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18314_1", "event-summarization": "test"}, {"id": "18314_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13258_1", "event-summarization": "test"}, {"id": "13258_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11591_1", "event-summarization": "2007年10月，兴庆宫公园铜质小男孩胳膊被锯断，“和平鸽”被盗。"}, {"id": "11591_2", "event-summarization": "test"}, {"id": "11591_3", "event-summarization": "test"}, {"id": "11591_4", "event-summarization": "2013年4月，兴庆宫公园“和平鸽”又一次被盗。"}]}
+{"summarizations": [{"id": "6079_1", "event-summarization": "test"}, {"id": "6079_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15954_1", "event-summarization": "test"}, {"id": "15954_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12136_1", "event-summarization": "test"}, {"id": "12136_2", "event-summarization": "test"}, {"id": "12136_3", "event-summarization": "test"}, {"id": "12136_4", "event-summarization": "test"}, {"id": "12136_5", "event-summarization": "test"}, {"id": "12136_6", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16348_1", "event-summarization": "test"}, {"id": "16348_2", "event-summarization": "test"}, {"id": "16348_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2180_1", "event-summarization": "test"}, {"id": "2180_2", "event-summarization": "同时，法医尸检结果显示，张某系颅内出血死亡。"}]}
+{"summarizations": [{"id": "16078_1", "event-summarization": "test"}, {"id": "16078_2", "event-summarization": "test"}, {"id": "16078_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2607_1", "event-summarization": "test"}, {"id": "2607_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10497_1", "event-summarization": "test"}, {"id": "10497_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13578_1", "event-summarization": "test"}, {"id": "13578_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18525_1", "event-summarization": "test"}, {"id": "18525_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5715_1", "event-summarization": "test"}, {"id": "5715_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2290_1", "event-summarization": "test"}, {"id": "2290_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9608_1", "event-summarization": "test"}, {"id": "9608_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1788_1", "event-summarization": "test"}, {"id": "1788_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6452_1", "event-summarization": "test"}, {"id": "6452_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18503_1", "event-summarization": "test"}, {"id": "18503_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1357_1", "event-summarization": "test"}, {"id": "1357_2", "event-summarization": "test"}, {"id": "1357_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2622_1", "event-summarization": "test"}, {"id": "2622_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14697_1", "event-summarization": "test"}, {"id": "14697_2", "event-summarization": "test"}, {"id": "14697_3", "event-summarization": "test"}, {"id": "14697_4", "event-summarization": "test"}, {"id": "14697_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4856_1", "event-summarization": "test"}, {"id": "4856_2", "event-summarization": "test"}, {"id": "4856_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17682_1", "event-summarization": "test"}, {"id": "17682_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9261_1", "event-summarization": "test"}, {"id": "9261_2", "event-summarization": "test"}, {"id": "9261_3", "event-summarization": "test"}, {"id": "9261_4", "event-summarization": "test"}, {"id": "9261_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "255_1", "event-summarization": "test"}, {"id": "255_2", "event-summarization": "test"}, {"id": "255_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10984_1", "event-summarization": "test"}, {"id": "10984_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14168_1", "event-summarization": "test"}, {"id": "14168_2", "event-summarization": "test"}, {"id": "14168_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7014_1", "event-summarization": "test"}, {"id": "7014_2", "event-summarization": "test"}, {"id": "7014_3", "event-summarization": "日前，幸某、江某和梁某均因涉嫌抢劫罪，被义乌市人民检察院提起公诉。"}]}
+{"summarizations": [{"id": "14605_1", "event-summarization": "test"}, {"id": "14605_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9259_1", "event-summarization": "test"}, {"id": "9259_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12479_1", "event-summarization": "test"}, {"id": "12479_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14309_1", "event-summarization": "test"}, {"id": "14309_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18490_1", "event-summarization": "test"}, {"id": "18490_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1896_1", "event-summarization": "test"}, {"id": "1896_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11312_1", "event-summarization": "test"}, {"id": "11312_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13271_1", "event-summarization": "test"}, {"id": "13271_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3414_1", "event-summarization": "test"}, {"id": "3414_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13961_1", "event-summarization": "test"}, {"id": "13961_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14484_1", "event-summarization": "test"}, {"id": "14484_2", "event-summarization": "test"}, {"id": "14484_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16934_1", "event-summarization": "test"}, {"id": "16934_2", "event-summarization": "test"}, {"id": "16934_3", "event-summarization": "对杨某作出行政拘留20日、罚款2000元的处罚。"}]}
+{"summarizations": [{"id": "1891_1", "event-summarization": "test"}, {"id": "1891_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11687_1", "event-summarization": "test"}, {"id": "11687_2", "event-summarization": "test"}, {"id": "11687_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7167_1", "event-summarization": "test"}, {"id": "7167_2", "event-summarization": "武装分子7日袭击了《查理周刊》杂志社巴黎总部，造成12人死亡、11人受伤。"}, {"id": "7167_3", "event-summarization": "test"}, {"id": "7167_4", "event-summarization": "武装分子7日袭击了《查理周刊》杂志社巴黎总部，造成12人死亡、11人受伤。"}]}
+{"summarizations": [{"id": "3151_1", "event-summarization": "用刀子威胁机组人员，要求把飞机开到利比亚首都的黎波里。"}, {"id": "3151_2", "event-summarization": "哈萨克斯坦外交官试图劫机要求飞往利比亚首都——中新"}]}
+{"summarizations": [{"id": "15328_1", "event-summarization": "test"}, {"id": "15328_2", "event-summarization": "test"}, {"id": "15328_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16831_1", "event-summarization": "test"}, {"id": "16831_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14580_1", "event-summarization": "test"}, {"id": "14580_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7713_1", "event-summarization": "test"}, {"id": "7713_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12384_1", "event-summarization": "test"}, {"id": "12384_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7509_1", "event-summarization": "test"}, {"id": "7509_2", "event-summarization": "test"}, {"id": "7509_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14725_1", "event-summarization": "test"}, {"id": "14725_2", "event-summarization": "同时，同时，大方县人民检察院依法以涉嫌诈骗罪对李某某批准逮捕。"}]}
+{"summarizations": [{"id": "15734_1", "event-summarization": "test"}, {"id": "15734_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17859_1", "event-summarization": "test"}, {"id": "17859_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2874_1", "event-summarization": "test"}, {"id": "2874_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5291_1", "event-summarization": "test"}, {"id": "5291_2", "event-summarization": "test"}, {"id": "5291_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18654_1", "event-summarization": "test"}, {"id": "18654_2", "event-summarization": "test"}, {"id": "18654_3", "event-summarization": "test"}, {"id": "18654_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8869_1", "event-summarization": "test"}, {"id": "8869_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6057_1", "event-summarization": "test"}, {"id": "6057_2", "event-summarization": "test"}, {"id": "6057_3", "event-summarization": "test"}, {"id": "6057_4", "event-summarization": "test"}, {"id": "6057_5", "event-summarization": "test"}, {"id": "6057_6", "event-summarization": "2013年出狱。2015年，丰台分局根据线索将杨柱军抓获。"}]}
+{"summarizations": [{"id": "18228_1", "event-summarization": "test"}, {"id": "18228_2", "event-summarization": "test"}, {"id": "18228_3", "event-summarization": "test"}, {"id": "18228_4", "event-summarization": "test"}, {"id": "18228_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7497_1", "event-summarization": "test"}, {"id": "7497_2", "event-summarization": "test"}, {"id": "7497_3", "event-summarization": "test"}, {"id": "7497_4", "event-summarization": "test"}, {"id": "7497_5", "event-summarization": "当日下午5时许，王佳蕊携带上述毒品在西城区被公安机关当场抓获。"}, {"id": "7497_6", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16846_1", "event-summarization": "test"}, {"id": "16846_2", "event-summarization": "test"}, {"id": "16846_3", "event-summarization": "test"}, {"id": "16846_4", "event-summarization": "test"}, {"id": "16846_5", "event-summarization": "test"}, {"id": "16846_6", "event-summarization": "test"}, {"id": "16846_7", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10965_1", "event-summarization": "test"}, {"id": "10965_2", "event-summarization": "test"}, {"id": "10965_3", "event-summarization": "test"}, {"id": "10965_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15212_1", "event-summarization": "test"}, {"id": "15212_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11432_1", "event-summarization": "test"}, {"id": "11432_2", "event-summarization": "test"}, {"id": "11432_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16569_1", "event-summarization": "test"}, {"id": "16569_2", "event-summarization": "test"}, {"id": "16569_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16600_1", "event-summarization": "test"}, {"id": "16600_2", "event-summarization": "test"}, {"id": "16600_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "495_1", "event-summarization": "目前，美国的新冠肺炎确诊病例波及哥伦比亚特区和32个州，至少19人死亡。"}, {"id": "495_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15537_1", "event-summarization": "test"}, {"id": "15537_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18309_1", "event-summarization": "test"}, {"id": "18309_2", "event-summarization": "test"}, {"id": "18309_3", "event-summarization": "test"}, {"id": "18309_4", "event-summarization": "test"}, {"id": "18309_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8316_1", "event-summarization": "test"}, {"id": "8316_2", "event-summarization": "test"}, {"id": "8316_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3372_1", "event-summarization": "同时，工人也在为工作条件与工资斗争，纳塔尔的沙丘球场就不时发生罢工。"}, {"id": "3372_2", "event-summarization": "去年11月，圣保罗的伊塔盖拉球场因起重机倒塌造成两名工人死亡。"}]}
+{"summarizations": [{"id": "17133_1", "event-summarization": "test"}, {"id": "17133_2", "event-summarization": "test"}, {"id": "17133_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19831_1", "event-summarization": "经调查，彭某早年吸过海洛因，1998年曾因抢劫被判刑七年六个月。"}, {"id": "19831_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13528_1", "event-summarization": "test"}, {"id": "13528_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12024_1", "event-summarization": "test"}, {"id": "12024_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6539_1", "event-summarization": "test"}, {"id": "6539_2", "event-summarization": "test"}, {"id": "6539_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13117_1", "event-summarization": "test"}, {"id": "13117_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8050_1", "event-summarization": "记者昨天获悉，通州法院一审以抢夺罪判处牛某有期徒刑9个月，并处罚金1000元。"}, {"id": "8050_2", "event-summarization": "test"}, {"id": "8050_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19630_1", "event-summarization": "test"}, {"id": "19630_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13336_1", "event-summarization": "test"}, {"id": "13336_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19520_1", "event-summarization": "test"}, {"id": "19520_2", "event-summarization": "哈基莫夫试图在俄罗斯北高加索地区为“伊斯兰国”招募成员，后被当地执法机关逮捕。"}]}
+{"summarizations": [{"id": "3489_1", "event-summarization": "test"}, {"id": "3489_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9772_1", "event-summarization": "test"}, {"id": "9772_2", "event-summarization": "test"}, {"id": "9772_3", "event-summarization": "7月5日，黑龙江省鹤岗市兴成煤矿发生一起顶板事故，造成8人死亡。"}]}
+{"summarizations": [{"id": "9524_1", "event-summarization": "test"}, {"id": "9524_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16825_1", "event-summarization": "test"}, {"id": "16825_2", "event-summarization": "test"}, {"id": "16825_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5274_1", "event-summarization": "海淀警方迅速出动，3小时抓获抢匪。目前，戴某因涉嫌抢劫罪已被刑事拘留。目前，"}, {"id": "5274_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15301_1", "event-summarization": "test"}, {"id": "15301_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7673_1", "event-summarization": "test"}, {"id": "7673_2", "event-summarization": "test"}, {"id": "7673_3", "event-summarization": "test"}, {"id": "7673_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16314_1", "event-summarization": "日前，日前，鹤岗市人民检察院依法以涉嫌受贿罪对张振伟作出逮捕决定。日前，日前，"}, {"id": "16314_2", "event-summarization": "test"}, {"id": "16314_3", "event-summarization": "日前，日前，日前，日前，浙江省人民检察院依法以涉嫌受贿罪对翁建荣作出逮捕决定。"}]}
+{"summarizations": [{"id": "6902_1", "event-summarization": "test"}, {"id": "6902_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4665_1", "event-summarization": "test"}, {"id": "4665_2", "event-summarization": "11月25日，截至11月25日，泰铢已累计下跌5%。"}]}
+{"summarizations": [{"id": "15261_1", "event-summarization": "test"}, {"id": "15261_2", "event-summarization": "test"}, {"id": "15261_3", "event-summarization": "test"}, {"id": "15261_4", "event-summarization": "test"}, {"id": "15261_5", "event-summarization": "3月17日11时许，晋中市榆社县社城镇焦红寺村发生森林火灾。"}]}
+{"summarizations": [{"id": "15429_1", "event-summarization": "为此，思明区市场监管局对涉案两家公司的违法行为，进行立案调查，分做出行政处罚。"}, {"id": "15429_2", "event-summarization": "test"}, {"id": "15429_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1274_1", "event-summarization": "test"}, {"id": "1274_2", "event-summarization": "test"}, {"id": "1274_3", "event-summarization": "test"}, {"id": "1274_4", "event-summarization": "test"}, {"id": "1274_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18364_1", "event-summarization": "test"}, {"id": "18364_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18391_1", "event-summarization": "test"}, {"id": "18391_2", "event-summarization": "test"}, {"id": "18391_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11572_1", "event-summarization": "test"}, {"id": "11572_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17252_1", "event-summarization": "test"}, {"id": "17252_2", "event-summarization": "test"}, {"id": "17252_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6580_1", "event-summarization": "test"}, {"id": "6580_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11049_1", "event-summarization": "test"}, {"id": "11049_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6650_1", "event-summarization": "test"}, {"id": "6650_2", "event-summarization": "test"}, {"id": "6650_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12119_1", "event-summarization": "test"}, {"id": "12119_2", "event-summarization": "test"}, {"id": "12119_3", "event-summarization": "test"}, {"id": "12119_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8262_1", "event-summarization": "test"}, {"id": "8262_2", "event-summarization": "test"}, {"id": "8262_3", "event-summarization": "test"}, {"id": "8262_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13243_1", "event-summarization": "test"}, {"id": "13243_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4338_1", "event-summarization": "test"}, {"id": "4338_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16925_1", "event-summarization": "test"}, {"id": "16925_2", "event-summarization": "test"}, {"id": "16925_3", "event-summarization": "2016年10月25日，肖某某涉嫌诈骗罪被刑事拘留。"}, {"id": "16925_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "604_1", "event-summarization": "test"}, {"id": "604_2", "event-summarization": "test"}, {"id": "604_3", "event-summarization": "test"}, {"id": "604_4", "event-summarization": "test"}, {"id": "604_5", "event-summarization": "test"}, {"id": "604_6", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9527_1", "event-summarization": "test"}, {"id": "9527_2", "event-summarization": "test"}, {"id": "9527_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15361_1", "event-summarization": "test"}, {"id": "15361_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2822_1", "event-summarization": "劫匪在高速路上劫持化学品罐车 只为车上货物"}, {"id": "2822_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15783_1", "event-summarization": "test"}, {"id": "15783_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2323_1", "event-summarization": "test"}, {"id": "2323_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17641_1", "event-summarization": "test"}, {"id": "17641_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12849_1", "event-summarization": "test"}, {"id": "12849_2", "event-summarization": "test"}, {"id": "12849_3", "event-summarization": "test"}, {"id": "12849_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6464_1", "event-summarization": "test"}, {"id": "6464_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1623_1", "event-summarization": "test"}, {"id": "1623_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3115_1", "event-summarization": "test"}, {"id": "3115_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19826_1", "event-summarization": "test"}, {"id": "19826_2", "event-summarization": "2016年8月，一辆载有中国游客的大巴，在去往戴高乐机场的路上被6名歹徒抢劫。"}, {"id": "19826_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14510_1", "event-summarization": "test"}, {"id": "14510_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7143_1", "event-summarization": "test"}, {"id": "7143_2", "event-summarization": "test"}, {"id": "7143_3", "event-summarization": "test"}, {"id": "7143_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12668_1", "event-summarization": "test"}, {"id": "12668_2", "event-summarization": "test"}, {"id": "12668_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8347_1", "event-summarization": "test"}, {"id": "8347_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18284_1", "event-summarization": "test"}, {"id": "18284_2", "event-summarization": "test"}, {"id": "18284_3", "event-summarization": "test"}, {"id": "18284_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3187_1", "event-summarization": "test"}, {"id": "3187_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15156_1", "event-summarization": "test"}, {"id": "15156_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1501_1", "event-summarization": "test"}, {"id": "1501_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14378_1", "event-summarization": "test"}, {"id": "14378_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4885_1", "event-summarization": "test"}, {"id": "4885_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11525_1", "event-summarization": "test"}, {"id": "11525_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8024_1", "event-summarization": "test"}, {"id": "8024_2", "event-summarization": "test"}, {"id": "8024_3", "event-summarization": "test"}, {"id": "8024_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16209_1", "event-summarization": "test"}, {"id": "16209_2", "event-summarization": "test"}, {"id": "16209_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8473_1", "event-summarization": "今天上午记者获悉，犯罪嫌疑人谢某因涉嫌抢劫罪已被检方批准逮捕。"}, {"id": "8473_2", "event-summarization": "test"}, {"id": "8473_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17476_1", "event-summarization": "test"}, {"id": "17476_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5643_1", "event-summarization": "test"}, {"id": "5643_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16110_1", "event-summarization": "test"}, {"id": "16110_2", "event-summarization": "test"}, {"id": "16110_3", "event-summarization": "test"}, {"id": "16110_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12900_1", "event-summarization": "test"}, {"id": "12900_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10682_1", "event-summarization": "test"}, {"id": "10682_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12575_1", "event-summarization": "test"}, {"id": "12575_2", "event-summarization": "test"}, {"id": "12575_3", "event-summarization": "test"}, {"id": "12575_4", "event-summarization": "test"}, {"id": "12575_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14280_1", "event-summarization": "test"}, {"id": "14280_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18238_1", "event-summarization": "test"}, {"id": "18238_2", "event-summarization": "test"}, {"id": "18238_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4144_1", "event-summarization": "test"}, {"id": "4144_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17867_1", "event-summarization": "日前，日前，湖南省人民检察院依法以涉嫌受贿罪对廖炎秋作出逮捕决定。日前，日前，"}, {"id": "17867_2", "event-summarization": "日前，日前，日前，榆林市人民检察院依法以涉嫌受贿罪对许子智作出逮捕决定。日前，"}, {"id": "17867_3", "event-summarization": "test"}, {"id": "17867_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17340_1", "event-summarization": "test"}, {"id": "17340_2", "event-summarization": "test"}, {"id": "17340_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13920_1", "event-summarization": "test"}, {"id": "13920_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3666_1", "event-summarization": "泰国已有165人因洪灾死亡440万人成为灾民——中新"}, {"id": "3666_2", "event-summarization": "泰国已有165人因洪灾死亡440万人成为灾民——中新"}]}
+{"summarizations": [{"id": "6879_1", "event-summarization": "5月26日，程幼泽等9人因涉嫌聚众扰乱公共秩序被警方抓捕。"}, {"id": "6879_2", "event-summarization": "test"}, {"id": "6879_3", "event-summarization": "test"}, {"id": "6879_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14632_1", "event-summarization": "test"}, {"id": "14632_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "471_1", "event-summarization": "test"}, {"id": "471_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15526_1", "event-summarization": "test"}, {"id": "15526_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10014_1", "event-summarization": "test"}, {"id": "10014_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2082_1", "event-summarization": "test"}, {"id": "2082_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6013_1", "event-summarization": "test"}, {"id": "6013_2", "event-summarization": "目前，犯罪嫌疑人封某因涉嫌抢劫罪，已被警方提请逮捕。"}]}
+{"summarizations": [{"id": "10442_1", "event-summarization": "test"}, {"id": "10442_2", "event-summarization": "此前，若羌县曾于11月26日北京时间13时33分发生5.5级地震。"}]}
+{"summarizations": [{"id": "10194_1", "event-summarization": "3月17日11时许，晋中市榆社县社城镇焦红寺村发生森林火灾。"}, {"id": "10194_2", "event-summarization": "test"}, {"id": "10194_3", "event-summarization": "test"}, {"id": "10194_4", "event-summarization": "test"}, {"id": "10194_5", "event-summarization": "test"}, {"id": "10194_6", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7345_1", "event-summarization": "test"}, {"id": "7345_2", "event-summarization": "test"}, {"id": "7345_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17854_1", "event-summarization": "test"}, {"id": "17854_2", "event-summarization": "test"}, {"id": "17854_3", "event-summarization": "test"}, {"id": "17854_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9346_1", "event-summarization": "test"}, {"id": "9346_2", "event-summarization": "test"}, {"id": "9346_3", "event-summarization": "test"}, {"id": "9346_4", "event-summarization": "test"}, {"id": "9346_5", "event-summarization": "test"}, {"id": "9346_6", "event-summarization": "test"}, {"id": "9346_7", "event-summarization": "test"}, {"id": "9346_8", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7698_1", "event-summarization": "test"}, {"id": "7698_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5875_1", "event-summarization": "test"}, {"id": "5875_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7809_1", "event-summarization": "test"}, {"id": "7809_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13465_1", "event-summarization": "test"}, {"id": "13465_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3105_1", "event-summarization": "test"}, {"id": "3105_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14303_1", "event-summarization": "test"}, {"id": "14303_2", "event-summarization": "test"}, {"id": "14303_3", "event-summarization": "test"}, {"id": "14303_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18005_1", "event-summarization": "test"}, {"id": "18005_2", "event-summarization": "test"}, {"id": "18005_3", "event-summarization": "test"}, {"id": "18005_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18306_1", "event-summarization": "test"}, {"id": "18306_2", "event-summarization": "test"}, {"id": "18306_3", "event-summarization": "test"}, {"id": "18306_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6564_1", "event-summarization": "test"}, {"id": "6564_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12308_1", "event-summarization": "test"}, {"id": "12308_2", "event-summarization": "test"}, {"id": "12308_3", "event-summarization": "test"}, {"id": "12308_4", "event-summarization": "test"}, {"id": "12308_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5276_1", "event-summarization": "test"}, {"id": "5276_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5041_1", "event-summarization": "test"}, {"id": "5041_2", "event-summarization": "test"}, {"id": "5041_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1573_1", "event-summarization": "西藏林芝地区朗县近日发生一起人间鼠疫疫情，2人因感染肺鼠疫型鼠疫死亡。"}, {"id": "1573_2", "event-summarization": "西藏林芝地区朗县近日发生一起人间鼠疫疫情，2人因感染肺鼠疫型鼠疫死亡。"}]}
+{"summarizations": [{"id": "1130_1", "event-summarization": "test"}, {"id": "1130_2", "event-summarization": "test"}, {"id": "1130_3", "event-summarization": "test"}, {"id": "1130_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7841_1", "event-summarization": "test"}, {"id": "7841_2", "event-summarization": "test"}, {"id": "7841_3", "event-summarization": "test"}, {"id": "7841_4", "event-summarization": "test"}, {"id": "7841_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5653_1", "event-summarization": "test"}, {"id": "5653_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18333_1", "event-summarization": "test"}, {"id": "18333_2", "event-summarization": "日前此案告破，犯罪嫌疑人李某因涉嫌强制猥亵妇女罪，被宝坻区人民检察院批准逮捕。"}]}
+{"summarizations": [{"id": "240_1", "event-summarization": "test"}, {"id": "240_2", "event-summarization": "此次将于18日举行的全天罢工是汉莎航空遭受的最新一次劳工行动。"}]}
+{"summarizations": [{"id": "4864_1", "event-summarization": "test"}, {"id": "4864_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12338_1", "event-summarization": "test"}, {"id": "12338_2", "event-summarization": "test"}, {"id": "12338_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17888_1", "event-summarization": "test"}, {"id": "17888_2", "event-summarization": "test"}, {"id": "17888_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4271_1", "event-summarization": "test"}, {"id": "4271_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9685_1", "event-summarization": "test"}, {"id": "9685_2", "event-summarization": "test"}, {"id": "9685_3", "event-summarization": "test"}, {"id": "9685_4", "event-summarization": "test"}, {"id": "9685_5", "event-summarization": "test"}, {"id": "9685_6", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4854_1", "event-summarization": "test"}, {"id": "4854_2", "event-summarization": "test"}, {"id": "4854_3", "event-summarization": "test"}, {"id": "4854_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8103_1", "event-summarization": "test"}, {"id": "8103_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17161_1", "event-summarization": "test"}, {"id": "17161_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2258_1", "event-summarization": "test"}, {"id": "2258_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18954_1", "event-summarization": "test"}, {"id": "18954_2", "event-summarization": "test"}, {"id": "18954_3", "event-summarization": "test"}, {"id": "18954_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8179_1", "event-summarization": "test"}, {"id": "8179_2", "event-summarization": "test"}, {"id": "8179_3", "event-summarization": "test"}, {"id": "8179_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15739_1", "event-summarization": "test"}, {"id": "15739_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14302_1", "event-summarization": "test"}, {"id": "14302_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18411_1", "event-summarization": "test"}, {"id": "18411_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5533_1", "event-summarization": "test"}, {"id": "5533_2", "event-summarization": "test"}, {"id": "5533_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15454_1", "event-summarization": "test"}, {"id": "15454_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8905_1", "event-summarization": "test"}, {"id": "8905_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12943_1", "event-summarization": "test"}, {"id": "12943_2", "event-summarization": "test"}, {"id": "12943_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7466_1", "event-summarization": "test"}, {"id": "7466_2", "event-summarization": "test"}, {"id": "7466_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7775_1", "event-summarization": "test"}, {"id": "7775_2", "event-summarization": "test"}, {"id": "7775_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2417_1", "event-summarization": "test"}, {"id": "2417_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10909_1", "event-summarization": "test"}, {"id": "10909_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17602_1", "event-summarization": "test"}, {"id": "17602_2", "event-summarization": "test"}, {"id": "17602_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19440_1", "event-summarization": "test"}, {"id": "19440_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1398_1", "event-summarization": "test"}, {"id": "1398_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15767_1", "event-summarization": "test"}, {"id": "15767_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11832_1", "event-summarization": "test"}, {"id": "11832_2", "event-summarization": "test"}, {"id": "11832_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2586_1", "event-summarization": "test"}, {"id": "2586_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3805_1", "event-summarization": "test"}, {"id": "3805_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18487_1", "event-summarization": "test"}, {"id": "18487_2", "event-summarization": "test"}, {"id": "18487_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17276_1", "event-summarization": "test"}, {"id": "17276_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7992_1", "event-summarization": "test"}, {"id": "7992_2", "event-summarization": "test"}, {"id": "7992_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6936_1", "event-summarization": "test"}, {"id": "6936_2", "event-summarization": "test"}, {"id": "6936_3", "event-summarization": "test"}, {"id": "6936_4", "event-summarization": "test"}, {"id": "6936_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "654_1", "event-summarization": "test"}, {"id": "654_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "738_1", "event-summarization": "test"}, {"id": "738_2", "event-summarization": "test"}, {"id": "738_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14370_1", "event-summarization": "test"}, {"id": "14370_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5816_1", "event-summarization": "test"}, {"id": "5816_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14294_1", "event-summarization": "test"}, {"id": "14294_2", "event-summarization": "test"}, {"id": "14294_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8620_1", "event-summarization": "test"}, {"id": "8620_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10546_1", "event-summarization": "test"}, {"id": "10546_2", "event-summarization": "test"}, {"id": "10546_3", "event-summarization": "test"}, {"id": "10546_4", "event-summarization": "test"}, {"id": "10546_5", "event-summarization": "test"}, {"id": "10546_6", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6204_1", "event-summarization": "test"}, {"id": "6204_2", "event-summarization": "test"}, {"id": "6204_3", "event-summarization": "test"}, {"id": "6204_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8091_1", "event-summarization": "test"}, {"id": "8091_2", "event-summarization": "test"}, {"id": "8091_3", "event-summarization": "test"}, {"id": "8091_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3582_1", "event-summarization": "test"}, {"id": "3582_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1787_1", "event-summarization": "test"}, {"id": "1787_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5765_1", "event-summarization": "test"}, {"id": "5765_2", "event-summarization": "test"}, {"id": "5765_3", "event-summarization": "test"}, {"id": "5765_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15691_1", "event-summarization": "日前，浙江省人民检察院依法以涉嫌受贿罪对褚孟形作出逮捕决定。褚孟形，"}, {"id": "15691_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3322_1", "event-summarization": "test"}, {"id": "3322_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18699_1", "event-summarization": "test"}, {"id": "18699_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3551_1", "event-summarization": "强风暴天气侵袭美国南部多州已造成224人死亡——中新"}, {"id": "3551_2", "event-summarization": "强风暴天气侵袭美国南部多州已造成224人死亡——中新"}]}
+{"summarizations": [{"id": "18017_1", "event-summarization": "日前，运城市人民检察院依法以涉嫌受贿罪对白英作出逮捕决定。日前，日前，"}, {"id": "18017_2", "event-summarization": "test"}, {"id": "18017_3", "event-summarization": "日前，日前，日前，铜川市人民检察院依法以涉嫌受贿罪对党振清作出逮捕决定。"}]}
+{"summarizations": [{"id": "7624_1", "event-summarization": "test"}, {"id": "7624_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11737_1", "event-summarization": "test"}, {"id": "11737_2", "event-summarization": "test"}, {"id": "11737_3", "event-summarization": "最终，法院以盗窃罪分别判处李某某、陈某某有期徒刑一年，判处黄某某拘役六个月。"}]}
+{"summarizations": [{"id": "5680_1", "event-summarization": "test"}, {"id": "5680_2", "event-summarization": "test"}, {"id": "5680_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9966_1", "event-summarization": "test"}, {"id": "9966_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18363_1", "event-summarization": "test"}, {"id": "18363_2", "event-summarization": "test"}, {"id": "18363_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6603_1", "event-summarization": "test"}, {"id": "6603_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16508_1", "event-summarization": "test"}, {"id": "16508_2", "event-summarization": "test"}, {"id": "16508_3", "event-summarization": "test"}, {"id": "16508_4", "event-summarization": "test"}, {"id": "16508_5", "event-summarization": "test"}, {"id": "16508_6", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9192_1", "event-summarization": "test"}, {"id": "9192_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16999_1", "event-summarization": "test"}, {"id": "16999_2", "event-summarization": "test"}, {"id": "16999_3", "event-summarization": "test"}, {"id": "16999_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3811_1", "event-summarization": "test"}, {"id": "3811_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5486_1", "event-summarization": "test"}, {"id": "5486_2", "event-summarization": "公安河西分局越秀路派出所接报后，迅速行动，先后将该团伙其他五名犯罪嫌疑人抓获。"}]}
+{"summarizations": [{"id": "3315_1", "event-summarization": "test"}, {"id": "3315_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11600_1", "event-summarization": "test"}, {"id": "11600_2", "event-summarization": "test"}, {"id": "11600_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9075_1", "event-summarization": "test"}, {"id": "9075_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16422_1", "event-summarization": "7月2日，王某因涉嫌诈骗罪，已被浙江省平湖市人民检察院依法批准逮捕。"}, {"id": "16422_2", "event-summarization": "test"}, {"id": "16422_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2059_1", "event-summarization": "test"}, {"id": "2059_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16121_1", "event-summarization": "test"}, {"id": "16121_2", "event-summarization": "test"}, {"id": "16121_3", "event-summarization": "test"}, {"id": "16121_4", "event-summarization": "test"}, {"id": "16121_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12162_1", "event-summarization": "test"}, {"id": "12162_2", "event-summarization": "5月29日凌晨，江苏苏州一两层民房发生火灾，造成5人遇难。"}, {"id": "12162_3", "event-summarization": "test"}, {"id": "12162_4", "event-summarization": "test"}, {"id": "12162_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13783_1", "event-summarization": "test"}, {"id": "13783_2", "event-summarization": "test"}, {"id": "13783_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14950_1", "event-summarization": "test"}, {"id": "14950_2", "event-summarization": "test"}, {"id": "14950_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16032_1", "event-summarization": "test"}, {"id": "16032_2", "event-summarization": "test"}, {"id": "16032_3", "event-summarization": "不过昨日，白酒板块整体小幅下调，五粮液跌1.3%，贵州茅台跌0.71%。"}]}
+{"summarizations": [{"id": "15413_1", "event-summarization": "test"}, {"id": "15413_2", "event-summarization": "test"}, {"id": "15413_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2212_1", "event-summarization": "伊拉克发生连环爆炸案造成至少61人死亡"}, {"id": "2212_2", "event-summarization": "伊拉克发生连环爆炸案造成至少61人死亡"}]}
+{"summarizations": [{"id": "12584_1", "event-summarization": "test"}, {"id": "12584_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11502_1", "event-summarization": "test"}, {"id": "11502_2", "event-summarization": "目前，杨某因涉嫌盗窃罪被依法刑事拘留，案件正在进一步审理中。"}]}
+{"summarizations": [{"id": "4625_1", "event-summarization": "test"}, {"id": "4625_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17487_1", "event-summarization": "test"}, {"id": "17487_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3644_1", "event-summarization": "test"}, {"id": "3644_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7930_1", "event-summarization": "test"}, {"id": "7930_2", "event-summarization": "test"}, {"id": "7930_3", "event-summarization": "test"}, {"id": "7930_4", "event-summarization": "test"}, {"id": "7930_5", "event-summarization": "test"}, {"id": "7930_6", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10768_1", "event-summarization": "test"}, {"id": "10768_2", "event-summarization": "test"}, {"id": "10768_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4422_1", "event-summarization": "test"}, {"id": "4422_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4933_1", "event-summarization": "test"}, {"id": "4933_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18123_1", "event-summarization": "test"}, {"id": "18123_2", "event-summarization": "test"}, {"id": "18123_3", "event-summarization": "test"}, {"id": "18123_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7278_1", "event-summarization": "test"}, {"id": "7278_2", "event-summarization": "报告也提到，2015年在欧洲，安全部队共逮捕667名涉嫌参与恐怖活动的人。"}, {"id": "7278_3", "event-summarization": "test"}, {"id": "7278_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17580_1", "event-summarization": "test"}, {"id": "17580_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2438_1", "event-summarization": "test"}, {"id": "2438_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9512_1", "event-summarization": "test"}, {"id": "9512_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1513_1", "event-summarization": "test"}, {"id": "1513_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18935_1", "event-summarization": "test"}, {"id": "18935_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19411_1", "event-summarization": "test"}, {"id": "19411_2", "event-summarization": "test"}, {"id": "19411_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1683_1", "event-summarization": "test"}, {"id": "1683_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11388_1", "event-summarization": "test"}, {"id": "11388_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16000_1", "event-summarization": "去年7月，犯罪嫌疑人邱某某因涉嫌合同诈骗被刑拘。去年7月，"}, {"id": "16000_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11214_1", "event-summarization": "test"}, {"id": "11214_2", "event-summarization": "test"}, {"id": "11214_3", "event-summarization": "test"}, {"id": "11214_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4675_1", "event-summarization": "test"}, {"id": "4675_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14604_1", "event-summarization": "test"}, {"id": "14604_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17285_1", "event-summarization": "test"}, {"id": "17285_2", "event-summarization": "test"}, {"id": "17285_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6818_1", "event-summarization": "test"}, {"id": "6818_2", "event-summarization": "test"}, {"id": "6818_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10492_1", "event-summarization": "test"}, {"id": "10492_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6500_1", "event-summarization": "test"}, {"id": "6500_2", "event-summarization": "房山法院以非法买卖爆炸物罪判处李杨军有期徒刑10年，剥夺政治权利2年。"}, {"id": "6500_3", "event-summarization": "test"}, {"id": "6500_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10334_1", "event-summarization": "test"}, {"id": "10334_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1183_1", "event-summarization": "儿基会表示，目前为止，津巴布韦已有2万3712人感染霍乱，1174人死亡。"}, {"id": "1183_2", "event-summarization": "儿基会表示，目前为止，津巴布韦已有2万3712人感染霍乱，1174人死亡。"}, {"id": "1183_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10232_1", "event-summarization": "韩国检方4月13日以涉嫌14项罪名为由，对赵主彬进行拘留起诉。"}, {"id": "10232_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12522_1", "event-summarization": "test"}, {"id": "12522_2", "event-summarization": "此次示威的导火索是此前一天一名德国男子在与移民发生冲突后丧生。"}, {"id": "12522_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11449_1", "event-summarization": "test"}, {"id": "11449_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1884_1", "event-summarization": "test"}, {"id": "1884_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18908_1", "event-summarization": "test"}, {"id": "18908_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10933_1", "event-summarization": "6月5日沙巴兰瑙发生5.9级地震，沙巴多地均有强烈震感。"}, {"id": "10933_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "560_1", "event-summarization": "test"}, {"id": "560_2", "event-summarization": "德国一火鸡养殖场现禽流感疫情 正检验是否为H5N8。"}]}
+{"summarizations": [{"id": "4804_1", "event-summarization": "test"}, {"id": "4804_2", "event-summarization": "test"}, {"id": "4804_3", "event-summarization": "据报道，2016年，芝加哥公立学校教师曾罢工1天，2012年罢工7天。"}, {"id": "4804_4", "event-summarization": "据报道，2016年，芝加哥公立学校教师曾罢工1天，2012年罢工7天。"}]}
+{"summarizations": [{"id": "2136_1", "event-summarization": "test"}, {"id": "2136_2", "event-summarization": "test"}, {"id": "2136_3", "event-summarization": "8月10日中午，哈尔滨110指挥中心接到报警，哈尔滨五常市一面包车发生车祸。"}]}
+{"summarizations": [{"id": "12975_1", "event-summarization": "test"}, {"id": "12975_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17333_1", "event-summarization": "test"}, {"id": "17333_2", "event-summarization": "test"}, {"id": "17333_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15436_1", "event-summarization": "test"}, {"id": "15436_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5564_1", "event-summarization": "test"}, {"id": "5564_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8285_1", "event-summarization": "test"}, {"id": "8285_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17021_1", "event-summarization": "test"}, {"id": "17021_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18698_1", "event-summarization": "test"}, {"id": "18698_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17364_1", "event-summarization": "test"}, {"id": "17364_2", "event-summarization": "test"}, {"id": "17364_3", "event-summarization": "test"}, {"id": "17364_4", "event-summarization": "经审讯，魏某真实姓名为亢某，2015年在山东曾因诈骗被判有期徒刑。"}]}
+{"summarizations": [{"id": "13750_1", "event-summarization": "test"}, {"id": "13750_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15397_1", "event-summarization": "test"}, {"id": "15397_2", "event-summarization": "对两名直接负责的主管人员给予警告，并分别处以5万元罚款。"}]}
+{"summarizations": [{"id": "16468_1", "event-summarization": "test"}, {"id": "16468_2", "event-summarization": "test"}, {"id": "16468_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9941_1", "event-summarization": "test"}, {"id": "9941_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19506_1", "event-summarization": "test"}, {"id": "19506_2", "event-summarization": "test"}, {"id": "19506_3", "event-summarization": "据悉，上周的枪击案已造成22人死亡，约24人受伤。"}]}
+{"summarizations": [{"id": "9195_1", "event-summarization": "test"}, {"id": "9195_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1645_1", "event-summarization": "test"}, {"id": "1645_2", "event-summarization": "test"}, {"id": "1645_3", "event-summarization": "同期，全国共报告丙类传染病发病二十九万四千二百三十三例，死亡五十七人。"}]}
+{"summarizations": [{"id": "9437_1", "event-summarization": "test"}, {"id": "9437_2", "event-summarization": "test"}, {"id": "9437_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1879_1", "event-summarization": "test"}, {"id": "1879_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14892_1", "event-summarization": "test"}, {"id": "14892_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14077_1", "event-summarization": "test"}, {"id": "14077_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7511_1", "event-summarization": "test"}, {"id": "7511_2", "event-summarization": "test"}, {"id": "7511_3", "event-summarization": "test"}, {"id": "7511_4", "event-summarization": "2009年12月28日夜里11点多，舒方刚在一家酒店内打架闹事被当地警方抓获。"}, {"id": "7511_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18711_1", "event-summarization": "3月18日，首都一家博物馆曾发生武装袭击和劫持人质事件，共造成23人死亡。"}, {"id": "18711_2", "event-summarization": "test"}, {"id": "18711_3", "event-summarization": "test"}, {"id": "18711_4", "event-summarization": "3月18日，首都一家博物馆曾发生武装袭击和劫持人质事件，共造成23人死亡。"}]}
+{"summarizations": [{"id": "12060_1", "event-summarization": "test"}, {"id": "12060_2", "event-summarization": "test"}, {"id": "12060_3", "event-summarization": "test"}, {"id": "12060_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12611_1", "event-summarization": "test"}, {"id": "12611_2", "event-summarization": "test"}, {"id": "12611_3", "event-summarization": "test"}, {"id": "12611_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8227_1", "event-summarization": "test"}, {"id": "8227_2", "event-summarization": "test"}, {"id": "8227_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4611_1", "event-summarization": "test"}, {"id": "4611_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11329_1", "event-summarization": "test"}, {"id": "11329_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14418_1", "event-summarization": "test"}, {"id": "14418_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19399_1", "event-summarization": "test"}, {"id": "19399_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6826_1", "event-summarization": "test"}, {"id": "6826_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15314_1", "event-summarization": "test"}, {"id": "15314_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4596_1", "event-summarization": "test"}, {"id": "4596_2", "event-summarization": "7月26日，埃及一家法院宣布正式拘留穆尔西15天。"}]}
+{"summarizations": [{"id": "1204_1", "event-summarization": "test"}, {"id": "1204_2", "event-summarization": "test"}, {"id": "1204_3", "event-summarization": "test"}, {"id": "1204_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "908_1", "event-summarization": "test"}, {"id": "908_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2380_1", "event-summarization": "10日，截至10日，英国新冠累计确诊达219183例，累计死亡31855例。"}, {"id": "2380_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1830_1", "event-summarization": "test"}, {"id": "1830_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16707_1", "event-summarization": "test"}, {"id": "16707_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3681_1", "event-summarization": "test"}, {"id": "3681_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8974_1", "event-summarization": "test"}, {"id": "8974_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15655_1", "event-summarization": "test"}, {"id": "15655_2", "event-summarization": "test"}, {"id": "15655_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4458_1", "event-summarization": "test"}, {"id": "4458_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3270_1", "event-summarization": "test"}, {"id": "3270_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8552_1", "event-summarization": "test"}, {"id": "8552_2", "event-summarization": "test"}, {"id": "8552_3", "event-summarization": "test"}, {"id": "8552_4", "event-summarization": "2017年3月，28岁白人男子杰克逊刺杀非裔美国人考夫曼，致其死亡。"}, {"id": "8552_5", "event-summarization": "test"}, {"id": "8552_6", "event-summarization": "test"}, {"id": "8552_7", "event-summarization": "1997年2月，一名巴勒斯坦人在帝国大厦观景台开火，击毙一人并枪伤6人后自杀。"}]}
+{"summarizations": [{"id": "2526_1", "event-summarization": "test"}, {"id": "2526_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "800_1", "event-summarization": "test"}, {"id": "800_2", "event-summarization": "test"}, {"id": "800_3", "event-summarization": "test"}, {"id": "800_4", "event-summarization": "test"}, {"id": "800_5", "event-summarization": "test"}, {"id": "800_6", "event-summarization": "test"}, {"id": "800_7", "event-summarization": "test"}, {"id": "800_8", "event-summarization": "test"}, {"id": "800_9", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15387_1", "event-summarization": "test"}, {"id": "15387_2", "event-summarization": "test"}, {"id": "15387_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3212_1", "event-summarization": "test"}, {"id": "3212_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11834_1", "event-summarization": "test"}, {"id": "11834_2", "event-summarization": "test"}, {"id": "11834_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1648_1", "event-summarization": "test"}, {"id": "1648_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15871_1", "event-summarization": "test"}, {"id": "15871_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1834_1", "event-summarization": "test"}, {"id": "1834_2", "event-summarization": "test"}, {"id": "1834_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13431_1", "event-summarization": "test"}, {"id": "13431_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11125_1", "event-summarization": "test"}, {"id": "11125_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8765_1", "event-summarization": "test"}, {"id": "8765_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18980_1", "event-summarization": "test"}, {"id": "18980_2", "event-summarization": "test"}, {"id": "18980_3", "event-summarization": "test"}, {"id": "18980_4", "event-summarization": "test"}, {"id": "18980_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2273_1", "event-summarization": "test"}, {"id": "2273_2", "event-summarization": "test"}, {"id": "2273_3", "event-summarization": "test"}, {"id": "2273_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7621_1", "event-summarization": "澎湃新闻此前报道，2019年，李根山参与举报腾格里沙漠排污事件。"}, {"id": "7621_2", "event-summarization": "test"}, {"id": "7621_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7255_1", "event-summarization": "test"}, {"id": "7255_2", "event-summarization": "test"}, {"id": "7255_3", "event-summarization": "警方16日晚间又拘捕另一名21岁嫌疑人，并指其涉嫌违反反恐法。16日，"}, {"id": "7255_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12165_1", "event-summarization": "test"}, {"id": "12165_2", "event-summarization": "test"}, {"id": "12165_3", "event-summarization": "俄联邦调查委员会克麦罗沃州调查机关就火灾进行了刑事立案。"}]}
+{"summarizations": [{"id": "6694_1", "event-summarization": "test"}, {"id": "6694_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6064_1", "event-summarization": "test"}, {"id": "6064_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "914_1", "event-summarization": "test"}, {"id": "914_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17611_1", "event-summarization": "test"}, {"id": "17611_2", "event-summarization": "test"}, {"id": "17611_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18495_1", "event-summarization": "test"}, {"id": "18495_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16308_1", "event-summarization": "test"}, {"id": "16308_2", "event-summarization": "test"}, {"id": "16308_3", "event-summarization": "test"}, {"id": "16308_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12477_1", "event-summarization": "test"}, {"id": "12477_2", "event-summarization": "test"}, {"id": "12477_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8667_1", "event-summarization": "test"}, {"id": "8667_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8261_1", "event-summarization": "test"}, {"id": "8261_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1104_1", "event-summarization": "test"}, {"id": "1104_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "231_1", "event-summarization": "25日，成千上万的示威者来到财政部、内政部、警察总署以及电视台等地。"}, {"id": "231_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7192_1", "event-summarization": "test"}, {"id": "7192_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16448_1", "event-summarization": "今天记者从海淀区检察院了解到，李某因涉嫌抢劫罪被批准逮捕。"}, {"id": "16448_2", "event-summarization": "test"}, {"id": "16448_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2030_1", "event-summarization": "test"}, {"id": "2030_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18018_1", "event-summarization": "test"}, {"id": "18018_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19611_1", "event-summarization": "test"}, {"id": "19611_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4483_1", "event-summarization": "test"}, {"id": "4483_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "340_1", "event-summarization": "test"}, {"id": "340_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13014_1", "event-summarization": "test"}, {"id": "13014_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5527_1", "event-summarization": "test"}, {"id": "5527_2", "event-summarization": "在抓捕过程中，李某突然掏出弹簧刀对民警发动攻击，在刺伤一名协警后趁机逃跑。"}]}
+{"summarizations": [{"id": "11547_1", "event-summarization": "test"}, {"id": "11547_2", "event-summarization": "test"}, {"id": "11547_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12080_1", "event-summarization": "test"}, {"id": "12080_2", "event-summarization": "test"}, {"id": "12080_3", "event-summarization": "test"}, {"id": "12080_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11161_1", "event-summarization": "test"}, {"id": "11161_2", "event-summarization": "test"}, {"id": "11161_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19521_1", "event-summarization": "test"}, {"id": "19521_2", "event-summarization": "7月10日，杨宇庭因涉嫌敲诈勒索罪被浙江省义乌市检察院批准逮捕。"}]}
+{"summarizations": [{"id": "2476_1", "event-summarization": "有关部门曾怀疑该建筑物附近存在放射性污染源。"}, {"id": "2476_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12267_1", "event-summarization": "test"}, {"id": "12267_2", "event-summarization": "test"}, {"id": "12267_3", "event-summarization": "test"}, {"id": "12267_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6708_1", "event-summarization": "test"}, {"id": "6708_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6699_1", "event-summarization": "test"}, {"id": "6699_2", "event-summarization": "test"}, {"id": "6699_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14175_1", "event-summarization": "test"}, {"id": "14175_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8018_1", "event-summarization": "test"}, {"id": "8018_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3973_1", "event-summarization": "test"}, {"id": "3973_2", "event-summarization": "test"}, {"id": "3973_3", "event-summarization": "9月2日，该国再次爆发反政府抗议示威，各地参加游行的人数达数万人。"}]}
+{"summarizations": [{"id": "12393_1", "event-summarization": "test"}, {"id": "12393_2", "event-summarization": "test"}, {"id": "12393_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6408_1", "event-summarization": "test"}, {"id": "6408_2", "event-summarization": "test"}, {"id": "6408_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4985_1", "event-summarization": "test"}, {"id": "4985_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18856_1", "event-summarization": "test"}, {"id": "18856_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16907_1", "event-summarization": "test"}, {"id": "16907_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "904_1", "event-summarization": "test"}, {"id": "904_2", "event-summarization": "test"}, {"id": "904_3", "event-summarization": "test"}, {"id": "904_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2144_1", "event-summarization": "test"}, {"id": "2144_2", "event-summarization": "test"}, {"id": "2144_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18692_1", "event-summarization": "test"}, {"id": "18692_2", "event-summarization": "test"}, {"id": "18692_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19522_1", "event-summarization": "test"}, {"id": "19522_2", "event-summarization": "5月8日，靖边县人民检察院审查决定，依法对马某某以涉嫌故意杀人罪批准逮捕。"}]}
+{"summarizations": [{"id": "4079_1", "event-summarization": "近期南方多地现强降雨致8省市34人死亡21人失踪"}, {"id": "4079_2", "event-summarization": "近期南方多地现强降雨致8省市34人死亡21人失踪"}]}
+{"summarizations": [{"id": "12767_1", "event-summarization": "test"}, {"id": "12767_2", "event-summarization": "test"}, {"id": "12767_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5970_1", "event-summarization": "test"}, {"id": "5970_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6982_1", "event-summarization": "test"}, {"id": "6982_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18476_1", "event-summarization": "test"}, {"id": "18476_2", "event-summarization": "test"}, {"id": "18476_3", "event-summarization": "test"}, {"id": "18476_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13390_1", "event-summarization": "test"}, {"id": "13390_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10702_1", "event-summarization": "test"}, {"id": "10702_2", "event-summarization": "test"}, {"id": "10702_3", "event-summarization": "test"}, {"id": "10702_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13070_1", "event-summarization": "test"}, {"id": "13070_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12364_1", "event-summarization": "test"}, {"id": "12364_2", "event-summarization": "test"}, {"id": "12364_3", "event-summarization": "2016年，中爪哇有至少36人因饮用私酿酒而丧命。"}]}
+{"summarizations": [{"id": "16747_1", "event-summarization": "截至27日停牌前，海通证券H股报13.7港元，跌3.792%；"}, {"id": "16747_2", "event-summarization": "11月26日，海通证券A股收盘报16.71元人民币，跌0.65%。"}, {"id": "16747_3", "event-summarization": "test"}, {"id": "16747_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2715_1", "event-summarization": "test"}, {"id": "2715_2", "event-summarization": "test"}, {"id": "2715_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17234_1", "event-summarization": "test"}, {"id": "17234_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7268_1", "event-summarization": "test"}, {"id": "7268_2", "event-summarization": "test"}, {"id": "7268_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17846_1", "event-summarization": "test"}, {"id": "17846_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16504_1", "event-summarization": "test"}, {"id": "16504_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10751_1", "event-summarization": "test"}, {"id": "10751_2", "event-summarization": "稍早在12点11分时，秀林乡也发生里氏规模3.8级地震，深度为27.8公里。"}, {"id": "10751_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8305_1", "event-summarization": "test"}, {"id": "8305_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5388_1", "event-summarization": "test"}, {"id": "5388_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19987_1", "event-summarization": "test"}, {"id": "19987_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4518_1", "event-summarization": "test"}, {"id": "4518_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15234_1", "event-summarization": "test"}, {"id": "15234_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16744_1", "event-summarization": "test"}, {"id": "16744_2", "event-summarization": "test"}, {"id": "16744_3", "event-summarization": "test"}, {"id": "16744_4", "event-summarization": "test"}, {"id": "16744_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1255_1", "event-summarization": "test"}, {"id": "1255_2", "event-summarization": "test"}, {"id": "1255_3", "event-summarization": "在安哥拉，洪灾已导致21人死亡，受灾人数超过20万人，3200多所房屋被毁。"}, {"id": "1255_4", "event-summarization": "在安哥拉，洪灾已导致21人死亡，受灾人数超过20万人，3200多所房屋被毁。"}, {"id": "1255_5", "event-summarization": "test"}, {"id": "1255_6", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14051_1", "event-summarization": "test"}, {"id": "14051_2", "event-summarization": "test"}, {"id": "14051_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7528_1", "event-summarization": "test"}, {"id": "7528_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9013_1", "event-summarization": "test"}, {"id": "9013_2", "event-summarization": "test"}, {"id": "9013_3", "event-summarization": "test"}, {"id": "9013_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10471_1", "event-summarization": "test"}, {"id": "10471_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9707_1", "event-summarization": "test"}, {"id": "9707_2", "event-summarization": "test"}, {"id": "9707_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17878_1", "event-summarization": "test"}, {"id": "17878_2", "event-summarization": "test"}, {"id": "17878_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11244_1", "event-summarization": "test"}, {"id": "11244_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "166_1", "event-summarization": "test"}, {"id": "166_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1639_1", "event-summarization": "test"}, {"id": "1639_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14872_1", "event-summarization": "test"}, {"id": "14872_2", "event-summarization": "test"}, {"id": "14872_3", "event-summarization": "test"}, {"id": "14872_4", "event-summarization": "test"}, {"id": "14872_5", "event-summarization": "test"}, {"id": "14872_6", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7727_1", "event-summarization": "test"}, {"id": "7727_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16936_1", "event-summarization": "test"}, {"id": "16936_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4496_1", "event-summarization": "test"}, {"id": "4496_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1438_1", "event-summarization": "test"}, {"id": "1438_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8234_1", "event-summarization": "test"}, {"id": "8234_2", "event-summarization": "test"}, {"id": "8234_3", "event-summarization": "test"}, {"id": "8234_4", "event-summarization": "test"}, {"id": "8234_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13241_1", "event-summarization": "test"}, {"id": "13241_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6230_1", "event-summarization": "test"}, {"id": "6230_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6393_1", "event-summarization": "test"}, {"id": "6393_2", "event-summarization": "test"}, {"id": "6393_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2018_1", "event-summarization": "青海省果洛藏族自治州境内于今日早间发生一起特大交通事故，致7人死亡。"}, {"id": "2018_2", "event-summarization": "青海省果洛藏族自治州境内于今日早间发生一起特大交通事故，致7人死亡。"}]}
+{"summarizations": [{"id": "4390_1", "event-summarization": "test"}, {"id": "4390_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19157_1", "event-summarization": "test"}, {"id": "19157_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11553_1", "event-summarization": "test"}, {"id": "11553_2", "event-summarization": "test"}, {"id": "11553_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17017_1", "event-summarization": "test"}, {"id": "17017_2", "event-summarization": "test"}, {"id": "17017_3", "event-summarization": "test"}, {"id": "17017_4", "event-summarization": "test"}, {"id": "17017_5", "event-summarization": "test"}, {"id": "17017_6", "event-summarization": "test"}, {"id": "17017_7", "event-summarization": "test"}]}
+{"summarizations": [{"id": "964_1", "event-summarization": "test"}, {"id": "964_2", "event-summarization": "test"}, {"id": "964_3", "event-summarization": "test"}, {"id": "964_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10849_1", "event-summarization": "test"}, {"id": "10849_2", "event-summarization": "test"}, {"id": "10849_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7337_1", "event-summarization": "test"}, {"id": "7337_2", "event-summarization": "test"}, {"id": "7337_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13860_1", "event-summarization": "test"}, {"id": "13860_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19746_1", "event-summarization": "test"}, {"id": "19746_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5441_1", "event-summarization": "test"}, {"id": "5441_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3113_1", "event-summarization": "test"}, {"id": "3113_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16262_1", "event-summarization": "test"}, {"id": "16262_2", "event-summarization": "test"}, {"id": "16262_3", "event-summarization": "test"}, {"id": "16262_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15403_1", "event-summarization": "test"}, {"id": "15403_2", "event-summarization": "最终，陈某被处以行政拘留五日，并处罚款200元行政处罚。"}, {"id": "15403_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5833_1", "event-summarization": "test"}, {"id": "5833_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11282_1", "event-summarization": "test"}, {"id": "11282_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8816_1", "event-summarization": "test"}, {"id": "8816_2", "event-summarization": "test"}, {"id": "8816_3", "event-summarization": "test"}, {"id": "8816_4", "event-summarization": "两周前，龙目岛发生规模7级强震，造成400多人丧生。"}, {"id": "8816_5", "event-summarization": "两周前，龙目岛发生规模7级强震，造成400多人丧生。"}]}
+{"summarizations": [{"id": "19069_1", "event-summarization": "9月14日，美国布拉格堡陆军基地发生爆炸，造成1名特种部队士兵死亡，7人受伤。"}, {"id": "19069_2", "event-summarization": "test"}, {"id": "19069_3", "event-summarization": "9月5日，美国亚利桑那州空军国民警卫队的一架型号不明的战斗机坠毁，飞行员遇难。"}, {"id": "19069_4", "event-summarization": "9月14日，美国布拉格堡陆军基地发生爆炸，造成1名特种部队士兵死亡，7人受伤。"}, {"id": "19069_5", "event-summarization": "test"}, {"id": "19069_6", "event-summarization": "9月5日，美国亚利桑那州空军国民警卫队的一架型号不明的战斗机坠毁，飞行员遇难。"}]}
+{"summarizations": [{"id": "11456_1", "event-summarization": "test"}, {"id": "11456_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18458_1", "event-summarization": "张某、林某两人因无事可做，便先后在盖山工业区等地偷盗电动车3部交给王某。"}, {"id": "18458_2", "event-summarization": "test"}, {"id": "18458_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19852_1", "event-summarization": "test"}, {"id": "19852_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4526_1", "event-summarization": "test"}, {"id": "4526_2", "event-summarization": "test"}, {"id": "4526_3", "event-summarization": "test"}, {"id": "4526_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11111_1", "event-summarization": "test"}, {"id": "11111_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18299_1", "event-summarization": "test"}, {"id": "18299_2", "event-summarization": "test"}, {"id": "18299_3", "event-summarization": "而SK-II的明星产品神仙水75毫升装从620元降至590元，降幅仅为30元。"}, {"id": "18299_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19022_1", "event-summarization": "test"}, {"id": "19022_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5705_1", "event-summarization": "test"}, {"id": "5705_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1583_1", "event-summarization": "test"}, {"id": "1583_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "988_1", "event-summarization": "test"}, {"id": "988_2", "event-summarization": "test"}, {"id": "988_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "199_1", "event-summarization": "test"}, {"id": "199_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2383_1", "event-summarization": "test"}, {"id": "2383_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13981_1", "event-summarization": "test"}, {"id": "13981_2", "event-summarization": "test"}, {"id": "13981_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14092_1", "event-summarization": "test"}, {"id": "14092_2", "event-summarization": "test"}, {"id": "14092_3", "event-summarization": "test"}, {"id": "14092_4", "event-summarization": "test"}, {"id": "14092_5", "event-summarization": "test"}, {"id": "14092_6", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8075_1", "event-summarization": "test"}, {"id": "8075_2", "event-summarization": "test"}, {"id": "8075_3", "event-summarization": "test"}, {"id": "8075_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "531_1", "event-summarization": "test"}, {"id": "531_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2668_1", "event-summarization": "test"}, {"id": "2668_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1835_1", "event-summarization": "test"}, {"id": "1835_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16411_1", "event-summarization": "2011年，弗拉维奥被指控因交通纠纷杀害一名34岁巴士司机。"}, {"id": "16411_2", "event-summarization": "test"}, {"id": "16411_3", "event-summarization": "2008年，弗拉维奥因涉嫌领导一个贩毒团伙被捕。"}]}
+{"summarizations": [{"id": "6439_1", "event-summarization": "test"}, {"id": "6439_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12618_1", "event-summarization": "test"}, {"id": "12618_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4266_1", "event-summarization": "test"}, {"id": "4266_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12597_1", "event-summarization": "test"}, {"id": "12597_2", "event-summarization": "test"}, {"id": "12597_3", "event-summarization": "test"}, {"id": "12597_4", "event-summarization": "test"}, {"id": "12597_5", "event-summarization": "同年3月，郭先义被公安机关抓获。"}]}
+{"summarizations": [{"id": "16297_1", "event-summarization": "test"}, {"id": "16297_2", "event-summarization": "test"}, {"id": "16297_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9592_1", "event-summarization": "test"}, {"id": "9592_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17324_1", "event-summarization": "test"}, {"id": "17324_2", "event-summarization": "test"}, {"id": "17324_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18425_1", "event-summarization": "test"}, {"id": "18425_2", "event-summarization": "test"}, {"id": "18425_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19715_1", "event-summarization": "test"}, {"id": "19715_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14074_1", "event-summarization": "test"}, {"id": "14074_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12960_1", "event-summarization": "test"}, {"id": "12960_2", "event-summarization": "test"}, {"id": "12960_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18793_1", "event-summarization": "test"}, {"id": "18793_2", "event-summarization": "test"}, {"id": "18793_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1062_1", "event-summarization": "4月1日22时许，唐山市开平区洼里煤矿井下发生透水事故，井下7人被困。"}, {"id": "1062_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17195_1", "event-summarization": "test"}, {"id": "17195_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16100_1", "event-summarization": "test"}, {"id": "16100_2", "event-summarization": "test"}, {"id": "16100_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1257_1", "event-summarization": "test"}, {"id": "1257_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "844_1", "event-summarization": "test"}, {"id": "844_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9245_1", "event-summarization": "test"}, {"id": "9245_2", "event-summarization": "波索镇周二也曾发生3名伊斯兰教徒被基督教徒砍死的事件。"}, {"id": "9245_3", "event-summarization": "test"}, {"id": "9245_4", "event-summarization": "test"}, {"id": "9245_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2669_1", "event-summarization": "test"}, {"id": "2669_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17261_1", "event-summarization": "test"}, {"id": "17261_2", "event-summarization": "test"}, {"id": "17261_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19145_1", "event-summarization": "test"}, {"id": "19145_2", "event-summarization": "事发后，事发后，2人经医院抢救无效死亡，另1人正在医院进行抢救。"}]}
+{"summarizations": [{"id": "11445_1", "event-summarization": "test"}, {"id": "11445_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16233_1", "event-summarization": "日前，南宁市人民检察院依法以涉嫌受贿罪对徐贵作出逮捕决定。日前，日前，日前，"}, {"id": "16233_2", "event-summarization": "test"}, {"id": "16233_3", "event-summarization": "日前，日前，日前，云南省人民检察院依法以涉嫌受贿罪对杨相来作出逮捕决定。日前，"}, {"id": "16233_4", "event-summarization": "日前，日前，日前，日前，铜川市人民检察院依法以涉嫌受贿罪对雷雨作出逮捕决定。"}]}
+{"summarizations": [{"id": "2944_1", "event-summarization": "test"}, {"id": "2944_2", "event-summarization": "test"}, {"id": "2944_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7338_1", "event-summarization": "test"}, {"id": "7338_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4047_1", "event-summarization": "test"}, {"id": "4047_2", "event-summarization": "test"}, {"id": "4047_3", "event-summarization": "11月初，飓风“埃塔”在墨西哥及中美洲地区国家引发灾害，造成上百人死亡。"}]}
+{"summarizations": [{"id": "2828_1", "event-summarization": "test"}, {"id": "2828_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13106_1", "event-summarization": "test"}, {"id": "13106_2", "event-summarization": "test"}, {"id": "13106_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10499_1", "event-summarization": "test"}, {"id": "10499_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9887_1", "event-summarization": "test"}, {"id": "9887_2", "event-summarization": "test"}, {"id": "9887_3", "event-summarization": "test"}, {"id": "9887_4", "event-summarization": "test"}, {"id": "9887_5", "event-summarization": "test"}, {"id": "9887_6", "event-summarization": "test"}, {"id": "9887_7", "event-summarization": "test"}, {"id": "9887_8", "event-summarization": "test"}, {"id": "9887_9", "event-summarization": "test"}, {"id": "9887_10", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15975_1", "event-summarization": "test"}, {"id": "15975_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5813_1", "event-summarization": "test"}, {"id": "5813_2", "event-summarization": "test"}, {"id": "5813_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11286_1", "event-summarization": "test"}, {"id": "11286_2", "event-summarization": "test"}, {"id": "11286_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11093_1", "event-summarization": "test"}, {"id": "11093_2", "event-summarization": "test"}, {"id": "11093_3", "event-summarization": "test"}, {"id": "11093_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19800_1", "event-summarization": "test"}, {"id": "19800_2", "event-summarization": "test"}, {"id": "19800_3", "event-summarization": "test"}, {"id": "19800_4", "event-summarization": "test"}, {"id": "19800_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7974_1", "event-summarization": "test"}, {"id": "7974_2", "event-summarization": "test"}, {"id": "7974_3", "event-summarization": "test"}, {"id": "7974_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13562_1", "event-summarization": "test"}, {"id": "13562_2", "event-summarization": "test"}, {"id": "13562_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8743_1", "event-summarization": "test"}, {"id": "8743_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "429_1", "event-summarization": "test"}, {"id": "429_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16641_1", "event-summarization": "test"}, {"id": "16641_2", "event-summarization": "test"}, {"id": "16641_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5305_1", "event-summarization": "test"}, {"id": "5305_2", "event-summarization": "test"}, {"id": "5305_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18647_1", "event-summarization": "test"}, {"id": "18647_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18762_1", "event-summarization": "test"}, {"id": "18762_2", "event-summarization": "test"}, {"id": "18762_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3172_1", "event-summarization": "test"}, {"id": "3172_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13153_1", "event-summarization": "test"}, {"id": "13153_2", "event-summarization": "test"}, {"id": "13153_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19670_1", "event-summarization": "test"}, {"id": "19670_2", "event-summarization": "一个多月前，哈内务部曾逮捕6名恐怖分子，阻止了一起“极端主义图谋”。"}]}
+{"summarizations": [{"id": "7783_1", "event-summarization": "test"}, {"id": "7783_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14459_1", "event-summarization": "test"}, {"id": "14459_2", "event-summarization": "test"}, {"id": "14459_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19974_1", "event-summarization": "test"}, {"id": "19974_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10583_1", "event-summarization": "test"}, {"id": "10583_2", "event-summarization": "test"}, {"id": "10583_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13286_1", "event-summarization": "test"}, {"id": "13286_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5697_1", "event-summarization": "test"}, {"id": "5697_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "774_1", "event-summarization": "据了解，2011年前7个月，贵州共发生煤矿事故96起，死亡167人。"}, {"id": "774_2", "event-summarization": "据了解，2011年前7个月，贵州共发生煤矿事故96起，死亡167人。"}]}
+{"summarizations": [{"id": "19815_1", "event-summarization": "test"}, {"id": "19815_2", "event-summarization": "test"}, {"id": "19815_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19266_1", "event-summarization": "test"}, {"id": "19266_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15536_1", "event-summarization": "test"}, {"id": "15536_2", "event-summarization": "test"}, {"id": "15536_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2521_1", "event-summarization": "test"}, {"id": "2521_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13030_1", "event-summarization": "test"}, {"id": "13030_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4245_1", "event-summarization": "test"}, {"id": "4245_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7498_1", "event-summarization": "test"}, {"id": "7498_2", "event-summarization": "test"}, {"id": "7498_3", "event-summarization": "test"}, {"id": "7498_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4186_1", "event-summarization": "test"}, {"id": "4186_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8567_1", "event-summarization": "test"}, {"id": "8567_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3231_1", "event-summarization": "14日，此前热那亚市发布消息称，14日大桥坍塌事故造成37人死亡。"}, {"id": "3231_2", "event-summarization": "14日，此前热那亚市发布消息称，14日大桥坍塌事故造成37人死亡。"}]}
+{"summarizations": [{"id": "5202_1", "event-summarization": "test"}, {"id": "5202_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12495_1", "event-summarization": "test"}, {"id": "12495_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6679_1", "event-summarization": "test"}, {"id": "6679_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16804_1", "event-summarization": "test"}, {"id": "16804_2", "event-summarization": "孙某被依法处以行政拘留10天，罚款500元。"}]}
+{"summarizations": [{"id": "2827_1", "event-summarization": "29名在苏丹遭劫持中方人员抵京 1人踝关节轻伤"}, {"id": "2827_2", "event-summarization": "test"}, {"id": "2827_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11831_1", "event-summarization": "test"}, {"id": "11831_2", "event-summarization": "目前，犯罪嫌疑人王某因盗窃罪已被警方依法刑事拘留。"}]}
+{"summarizations": [{"id": "4786_1", "event-summarization": "test"}, {"id": "4786_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "150_1", "event-summarization": "test"}, {"id": "150_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7370_1", "event-summarization": "因涉嫌《刑法》第二百一十三条假冒注册商标罪，陈某伟被大兴分局依法刑事拘留。"}, {"id": "7370_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10172_1", "event-summarization": "test"}, {"id": "10172_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7986_1", "event-summarization": "test"}, {"id": "7986_2", "event-summarization": "test"}, {"id": "7986_3", "event-summarization": "test"}, {"id": "7986_4", "event-summarization": "test"}, {"id": "7986_5", "event-summarization": "test"}, {"id": "7986_6", "event-summarization": "test"}, {"id": "7986_7", "event-summarization": "test"}, {"id": "7986_8", "event-summarization": "test"}, {"id": "7986_9", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3250_1", "event-summarization": "test"}, {"id": "3250_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13260_1", "event-summarization": "test"}, {"id": "13260_2", "event-summarization": "6月中旬，在亚利桑那州刚刚宣判结束的江玥案中，凶犯被判25年刑期，不得保释。"}]}
+{"summarizations": [{"id": "11230_1", "event-summarization": "test"}, {"id": "11230_2", "event-summarization": "12日凌晨，在雷山县境内，一辆载有3名司乘人员的面包车坠河，造成3人当场死亡。"}]}
+{"summarizations": [{"id": "2709_1", "event-summarization": "test"}, {"id": "2709_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11165_1", "event-summarization": "test"}, {"id": "11165_2", "event-summarization": "test"}, {"id": "11165_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8923_1", "event-summarization": "test"}, {"id": "8923_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6522_1", "event-summarization": "test"}, {"id": "6522_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17363_1", "event-summarization": "test"}, {"id": "17363_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4470_1", "event-summarization": "test"}, {"id": "4470_2", "event-summarization": "test"}, {"id": "4470_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2845_1", "event-summarization": "test"}, {"id": "2845_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12298_1", "event-summarization": "test"}, {"id": "12298_2", "event-summarization": "test"}, {"id": "12298_3", "event-summarization": "test"}, {"id": "12298_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19033_1", "event-summarization": "test"}, {"id": "19033_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12220_1", "event-summarization": "test"}, {"id": "12220_2", "event-summarization": "test"}, {"id": "12220_3", "event-summarization": "据悉，2013年的袭击造成3人死亡，另有260多人受伤。"}]}
+{"summarizations": [{"id": "7701_1", "event-summarization": "test"}, {"id": "7701_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3540_1", "event-summarization": "test"}, {"id": "3540_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1757_1", "event-summarization": "test"}, {"id": "1757_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8379_1", "event-summarization": "5月7日，因涉嫌盗窃犯罪，刘某被武汉东西湖区警方刑事拘留。"}, {"id": "8379_2", "event-summarization": "27岁的刘某是湖北省应城市人，曾因犯抢劫罪，被内蒙古法院判处有期徒刑5年。"}, {"id": "8379_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11920_1", "event-summarization": "test"}, {"id": "11920_2", "event-summarization": "test"}, {"id": "11920_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10222_1", "event-summarization": "test"}, {"id": "10222_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10478_1", "event-summarization": "test"}, {"id": "10478_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3824_1", "event-summarization": "test"}, {"id": "3824_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3845_1", "event-summarization": "test"}, {"id": "3845_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11807_1", "event-summarization": "test"}, {"id": "11807_2", "event-summarization": "test"}, {"id": "11807_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13763_1", "event-summarization": "test"}, {"id": "13763_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12064_1", "event-summarization": "test"}, {"id": "12064_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1443_1", "event-summarization": "test"}, {"id": "1443_2", "event-summarization": "test"}, {"id": "1443_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8014_1", "event-summarization": "瀚宇博德(0667)江苏江阴厂房于周日发生火灾，部份设备受损，该厂房需要停产"}, {"id": "8014_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "822_1", "event-summarization": "test"}, {"id": "822_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16095_1", "event-summarization": "test"}, {"id": "16095_2", "event-summarization": "test"}, {"id": "16095_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16366_1", "event-summarization": "test"}, {"id": "16366_2", "event-summarization": "test"}, {"id": "16366_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1629_1", "event-summarization": "test"}, {"id": "1629_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1346_1", "event-summarization": "test"}, {"id": "1346_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15676_1", "event-summarization": "test"}, {"id": "15676_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4089_1", "event-summarization": "test"}, {"id": "4089_2", "event-summarization": "test"}, {"id": "4089_3", "event-summarization": "test"}, {"id": "4089_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18864_1", "event-summarization": "test"}, {"id": "18864_2", "event-summarization": "test"}, {"id": "18864_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8583_1", "event-summarization": "test"}, {"id": "8583_2", "event-summarization": "刘清贵说,刘清贵说,今年以来,民航发生通用航空飞行事故5起,死亡9人。"}]}
+{"summarizations": [{"id": "1434_1", "event-summarization": "test"}, {"id": "1434_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15936_1", "event-summarization": "test"}, {"id": "15936_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6904_1", "event-summarization": "test"}, {"id": "6904_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9147_1", "event-summarization": "test"}, {"id": "9147_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7195_1", "event-summarization": "test"}, {"id": "7195_2", "event-summarization": "test"}, {"id": "7195_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6003_1", "event-summarization": "test"}, {"id": "6003_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16156_1", "event-summarization": "test"}, {"id": "16156_2", "event-summarization": "此前，云南省人民检察院依法以涉嫌受贿罪对罗应光作出逮捕决定。"}, {"id": "16156_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2178_1", "event-summarization": "test"}, {"id": "2178_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11611_1", "event-summarization": "test"}, {"id": "11611_2", "event-summarization": "test"}, {"id": "11611_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10595_1", "event-summarization": "test"}, {"id": "10595_2", "event-summarization": "test"}, {"id": "10595_3", "event-summarization": "test"}, {"id": "10595_4", "event-summarization": "test"}, {"id": "10595_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4576_1", "event-summarization": "test"}, {"id": "4576_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11613_1", "event-summarization": "test"}, {"id": "11613_2", "event-summarization": "test"}, {"id": "11613_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12641_1", "event-summarization": "test"}, {"id": "12641_2", "event-summarization": "test"}, {"id": "12641_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1916_1", "event-summarization": "甘肃发布09年12月传染病疫情18人因甲流死亡——中新"}, {"id": "1916_2", "event-summarization": "甘肃发布09年12月传染病疫情18人因甲流死亡——中新"}]}
+{"summarizations": [{"id": "4845_1", "event-summarization": "test"}, {"id": "4845_2", "event-summarization": "test"}, {"id": "4845_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5236_1", "event-summarization": "test"}, {"id": "5236_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14289_1", "event-summarization": "近日，嫌疑人王某因涉嫌信用卡诈骗被上海浦东警方刑事拘留。"}, {"id": "14289_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12777_1", "event-summarization": "test"}, {"id": "12777_2", "event-summarization": "test"}, {"id": "12777_3", "event-summarization": "test"}, {"id": "12777_4", "event-summarization": "当日上午11时许，男子乙经抢救无效死亡。"}, {"id": "12777_5", "event-summarization": "test"}, {"id": "12777_6", "event-summarization": "test"}, {"id": "12777_7", "event-summarization": "test"}, {"id": "12777_8", "event-summarization": "test"}, {"id": "12777_9", "event-summarization": "test"}, {"id": "12777_10", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6482_1", "event-summarization": "被害人报案后，民警将张某抓获归案。后经鉴定，张某盗窃财产共价值人民币十余万元。"}, {"id": "6482_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19119_1", "event-summarization": "test"}, {"id": "19119_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14242_1", "event-summarization": "test"}, {"id": "14242_2", "event-summarization": "test"}, {"id": "14242_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9387_1", "event-summarization": "test"}, {"id": "9387_2", "event-summarization": "test"}, {"id": "9387_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15095_1", "event-summarization": "test"}, {"id": "15095_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "629_1", "event-summarization": "test"}, {"id": "629_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8013_1", "event-summarization": "test"}, {"id": "8013_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2687_1", "event-summarization": "7月2日，宁夏回族自治区银川市一处建筑工地发生塌方事故，造成3人死亡。"}, {"id": "2687_2", "event-summarization": "7月2日，宁夏回族自治区银川市一处建筑工地发生塌方事故，造成3人死亡。"}]}
+{"summarizations": [{"id": "19540_1", "event-summarization": "test"}, {"id": "19540_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12874_1", "event-summarization": "test"}, {"id": "12874_2", "event-summarization": "test"}, {"id": "12874_3", "event-summarization": "test"}, {"id": "12874_4", "event-summarization": "test"}, {"id": "12874_5", "event-summarization": "test"}, {"id": "12874_6", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12954_1", "event-summarization": "test"}, {"id": "12954_2", "event-summarization": "test"}, {"id": "12954_3", "event-summarization": "test"}, {"id": "12954_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "678_1", "event-summarization": "中新网3月20日电 据法新社报道，逾100万名愤怒的法国工人参与全国大罢工。"}, {"id": "678_2", "event-summarization": "这起事件造成9名警察受伤，约300人遭警方短暂拘留。"}]}
+{"summarizations": [{"id": "1521_1", "event-summarization": "test"}, {"id": "1521_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5730_1", "event-summarization": "test"}, {"id": "5730_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11577_1", "event-summarization": "test"}, {"id": "11577_2", "event-summarization": "test"}, {"id": "11577_3", "event-summarization": "test"}, {"id": "11577_4", "event-summarization": "test"}, {"id": "11577_5", "event-summarization": "test"}, {"id": "11577_6", "event-summarization": "8月16日，警方在天桥区某礼品回收店抓获收赃嫌疑人刘华(化名)。"}]}
+{"summarizations": [{"id": "11561_1", "event-summarization": "test"}, {"id": "11561_2", "event-summarization": "test"}, {"id": "11561_3", "event-summarization": "test"}, {"id": "11561_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19726_1", "event-summarization": "test"}, {"id": "19726_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7695_1", "event-summarization": "test"}, {"id": "7695_2", "event-summarization": "test"}, {"id": "7695_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9987_1", "event-summarization": "test"}, {"id": "9987_2", "event-summarization": "test"}, {"id": "9987_3", "event-summarization": "test"}, {"id": "9987_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12126_1", "event-summarization": "test"}, {"id": "12126_2", "event-summarization": "test"}, {"id": "12126_3", "event-summarization": "test"}, {"id": "12126_4", "event-summarization": "test"}, {"id": "12126_5", "event-summarization": "test"}, {"id": "12126_6", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10366_1", "event-summarization": "test"}, {"id": "10366_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2974_1", "event-summarization": "test"}, {"id": "2974_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19737_1", "event-summarization": "test"}, {"id": "19737_2", "event-summarization": "test"}, {"id": "19737_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15368_1", "event-summarization": "test"}, {"id": "15368_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1950_1", "event-summarization": "test"}, {"id": "1950_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11054_1", "event-summarization": "test"}, {"id": "11054_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10384_1", "event-summarization": "test"}, {"id": "10384_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17827_1", "event-summarization": "test"}, {"id": "17827_2", "event-summarization": "test"}, {"id": "17827_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13318_1", "event-summarization": "test"}, {"id": "13318_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5414_1", "event-summarization": "test"}, {"id": "5414_2", "event-summarization": "test"}, {"id": "5414_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10041_1", "event-summarization": "test"}, {"id": "10041_2", "event-summarization": "test"}, {"id": "10041_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8931_1", "event-summarization": "test"}, {"id": "8931_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17869_1", "event-summarization": "test"}, {"id": "17869_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7131_1", "event-summarization": "test"}, {"id": "7131_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10001_1", "event-summarization": "test"}, {"id": "10001_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4735_1", "event-summarization": "test"}, {"id": "4735_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5850_1", "event-summarization": "test"}, {"id": "5850_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2372_1", "event-summarization": "test"}, {"id": "2372_2", "event-summarization": "test"}, {"id": "2372_3", "event-summarization": "9天前(20日)，该地区刚刚发生里氏6.0级地震，造成7人死亡，数十人受伤。"}, {"id": "2372_4", "event-summarization": "9天前(20日)，该地区刚刚发生里氏6.0级地震，造成7人死亡，数十人受伤。"}]}
+{"summarizations": [{"id": "18295_1", "event-summarization": "test"}, {"id": "18295_2", "event-summarization": "test"}, {"id": "18295_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16266_1", "event-summarization": "test"}, {"id": "16266_2", "event-summarization": "test"}, {"id": "16266_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9508_1", "event-summarization": "test"}, {"id": "9508_2", "event-summarization": "test"}, {"id": "9508_3", "event-summarization": "test"}, {"id": "9508_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3514_1", "event-summarization": "test"}, {"id": "3514_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18558_1", "event-summarization": "test"}, {"id": "18558_2", "event-summarization": "目前，江岸警方已将行凶男子拘留。"}]}
+{"summarizations": [{"id": "2076_1", "event-summarization": "test"}, {"id": "2076_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6903_1", "event-summarization": "test"}, {"id": "6903_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16496_1", "event-summarization": "test"}, {"id": "16496_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14914_1", "event-summarization": "test"}, {"id": "14914_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16283_1", "event-summarization": "test"}, {"id": "16283_2", "event-summarization": "test"}, {"id": "16283_3", "event-summarization": "12月21日，东京地方检察厅特别搜查部以涉嫌违反《公司法》第三度逮捕戈恩。"}]}
+{"summarizations": [{"id": "9682_1", "event-summarization": "test"}, {"id": "9682_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17502_1", "event-summarization": "test"}, {"id": "17502_2", "event-summarization": "test"}, {"id": "17502_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15801_1", "event-summarization": "test"}, {"id": "15801_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17908_1", "event-summarization": "test"}, {"id": "17908_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2211_1", "event-summarization": "test"}, {"id": "2211_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "457_1", "event-summarization": "test"}, {"id": "457_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15721_1", "event-summarization": "test"}, {"id": "15721_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2201_1", "event-summarization": "test"}, {"id": "2201_2", "event-summarization": "test"}, {"id": "2201_3", "event-summarization": "test"}, {"id": "2201_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6371_1", "event-summarization": "test"}, {"id": "6371_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2492_1", "event-summarization": "test"}, {"id": "2492_2", "event-summarization": "test"}, {"id": "2492_3", "event-summarization": "1999年，土耳其西北部地区连续发生两次7级以上地震，造成约1.8万人死亡。"}, {"id": "2492_4", "event-summarization": "1999年，土耳其西北部地区连续发生两次7级以上地震，造成约1.8万人死亡。"}, {"id": "2492_5", "event-summarization": "2011年，土耳其东部凡省发生7.2级地震，造成644人死亡。"}, {"id": "2492_6", "event-summarization": "2011年，土耳其东部凡省发生7.2级地震，造成644人死亡。"}]}
+{"summarizations": [{"id": "6594_1", "event-summarization": "test"}, {"id": "6594_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "127_1", "event-summarization": "阿尔及利亚特种部队１９日对在东部天然气田劫持人质的武装分子发起最后攻击。"}, {"id": "127_2", "event-summarization": "记者从军方得知，又有４名外籍人质得到解救，但另有８名外籍人质遇害。"}]}
+{"summarizations": [{"id": "9574_1", "event-summarization": "test"}, {"id": "9574_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "546_1", "event-summarization": "广东省卫生计生委2月26日通报，广州市新增1例人感染H7N9禽流感确诊病例。"}, {"id": "546_2", "event-summarization": "佛山市2月23日确诊病例、71岁男子朱某因呼吸衰竭于2月25日抢救无效死亡。"}]}
+{"summarizations": [{"id": "9208_1", "event-summarization": "test"}, {"id": "9208_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19578_1", "event-summarization": "test"}, {"id": "19578_2", "event-summarization": "test"}, {"id": "19578_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16301_1", "event-summarization": "test"}, {"id": "16301_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4026_1", "event-summarization": "热带风暴“劳拉”袭击多米尼加至少4人死亡"}, {"id": "4026_2", "event-summarization": "另据海地媒体24日报道，“劳拉”过境海地已造成9人死亡，另有两人失踪。"}]}
+{"summarizations": [{"id": "12025_1", "event-summarization": "test"}, {"id": "12025_2", "event-summarization": "test"}, {"id": "12025_3", "event-summarization": "test"}, {"id": "12025_4", "event-summarization": "test"}, {"id": "12025_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11808_1", "event-summarization": "test"}, {"id": "11808_2", "event-summarization": "test"}, {"id": "11808_3", "event-summarization": "test"}, {"id": "11808_4", "event-summarization": "昨天记者获悉，高某、孙某涉嫌盗窃罪被公诉至顺义法院。"}]}
+{"summarizations": [{"id": "1338_1", "event-summarization": "现场排查完毕后，检疫人员立即对粪便样本进行了霍乱快检，结果呈阴性。"}, {"id": "1338_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12079_1", "event-summarization": "test"}, {"id": "12079_2", "event-summarization": "昨日，记者从仪陇县人民法院获悉，男子林某因绑架罪被判7年有期徒刑。昨日，"}]}
+{"summarizations": [{"id": "19397_1", "event-summarization": "test"}, {"id": "19397_2", "event-summarization": "test"}, {"id": "19397_3", "event-summarization": "目前，陈某和严某因涉嫌集资诈骗，已被检察机关批准逮捕。案件正在进一步办理中。"}]}
+{"summarizations": [{"id": "1046_1", "event-summarization": "test"}, {"id": "1046_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10015_1", "event-summarization": "test"}, {"id": "10015_2", "event-summarization": "test"}, {"id": "10015_3", "event-summarization": "test"}, {"id": "10015_4", "event-summarization": "test"}, {"id": "10015_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12915_1", "event-summarization": "test"}, {"id": "12915_2", "event-summarization": "test"}, {"id": "12915_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "769_1", "event-summarization": "test"}, {"id": "769_2", "event-summarization": "test"}, {"id": "769_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6820_1", "event-summarization": "test"}, {"id": "6820_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8696_1", "event-summarization": "test"}, {"id": "8696_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1401_1", "event-summarization": "test"}, {"id": "1401_2", "event-summarization": "市工商局本周共抽取样本926个，不合格样本10个，抽检合格率为98.9%。"}]}
+{"summarizations": [{"id": "7524_1", "event-summarization": "test"}, {"id": "7524_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2771_1", "event-summarization": "test"}, {"id": "2771_2", "event-summarization": "test"}, {"id": "2771_3", "event-summarization": "test"}, {"id": "2771_4", "event-summarization": "test"}, {"id": "2771_5", "event-summarization": "1月9日，巴格达发生两起汽车炸弹袭击事件，造成至少12人死亡，51人受伤。"}, {"id": "2771_6", "event-summarization": "1月9日，巴格达发生两起汽车炸弹袭击事件，造成至少12人死亡，51人受伤。"}, {"id": "2771_7", "event-summarization": "test"}, {"id": "2771_8", "event-summarization": "test"}, {"id": "2771_9", "event-summarization": "1月27日，巴格达发生一起汽车炸弹袭击事件，造成至少31人丧生、60多人受伤。"}, {"id": "2771_10", "event-summarization": "1月27日，巴格达发生一起汽车炸弹袭击事件，造成至少31人丧生、60多人受伤。"}, {"id": "2771_11", "event-summarization": "test"}, {"id": "2771_12", "event-summarization": "test"}, {"id": "2771_13", "event-summarization": "test"}, {"id": "2771_14", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8116_1", "event-summarization": "test"}, {"id": "8116_2", "event-summarization": "test"}, {"id": "8116_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3643_1", "event-summarization": "test"}, {"id": "3643_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12138_1", "event-summarization": "test"}, {"id": "12138_2", "event-summarization": "test"}, {"id": "12138_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2340_1", "event-summarization": "test"}, {"id": "2340_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5290_1", "event-summarization": "嫌疑人陈某某、于某坦白刚刚在解放东街飞车抢夺了一名女子的皮包。"}, {"id": "5290_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5367_1", "event-summarization": "test"}, {"id": "5367_2", "event-summarization": "test"}, {"id": "5367_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18446_1", "event-summarization": "5月4日下午，浙江桐乡法院以放火罪对其中的吴某判处有期徒刑一年四个月。"}, {"id": "18446_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5477_1", "event-summarization": "test"}, {"id": "5477_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10276_1", "event-summarization": "test"}, {"id": "10276_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18095_1", "event-summarization": "test"}, {"id": "18095_2", "event-summarization": "test"}, {"id": "18095_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10348_1", "event-summarization": "test"}, {"id": "10348_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9123_1", "event-summarization": "test"}, {"id": "9123_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "592_1", "event-summarization": "test"}, {"id": "592_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "871_1", "event-summarization": "test"}, {"id": "871_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13910_1", "event-summarization": "test"}, {"id": "13910_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8695_1", "event-summarization": "test"}, {"id": "8695_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16878_1", "event-summarization": "test"}, {"id": "16878_2", "event-summarization": "test"}, {"id": "16878_3", "event-summarization": "test"}, {"id": "16878_4", "event-summarization": "test"}, {"id": "16878_5", "event-summarization": "test"}, {"id": "16878_6", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6099_1", "event-summarization": "2014年1月，茂名中院一审以受贿罪判处李伟有期徒刑5年。"}, {"id": "6099_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14809_1", "event-summarization": "test"}, {"id": "14809_2", "event-summarization": "test"}, {"id": "14809_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "13740_1", "event-summarization": "test"}, {"id": "13740_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19349_1", "event-summarization": "test"}, {"id": "19349_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11340_1", "event-summarization": "test"}, {"id": "11340_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17582_1", "event-summarization": "test"}, {"id": "17582_2", "event-summarization": "test"}, {"id": "17582_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15198_1", "event-summarization": "test"}, {"id": "15198_2", "event-summarization": "test"}, {"id": "15198_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3636_1", "event-summarization": "test"}, {"id": "3636_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "10642_1", "event-summarization": "test"}, {"id": "10642_2", "event-summarization": "test"}, {"id": "10642_3", "event-summarization": "test"}, {"id": "10642_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15888_1", "event-summarization": "test"}, {"id": "15888_2", "event-summarization": "test"}, {"id": "15888_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6871_1", "event-summarization": "test"}, {"id": "6871_2", "event-summarization": "test"}, {"id": "6871_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8263_1", "event-summarization": "test"}, {"id": "8263_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19135_1", "event-summarization": "test"}, {"id": "19135_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19975_1", "event-summarization": "test"}, {"id": "19975_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "2009_1", "event-summarization": "test"}, {"id": "2009_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17638_1", "event-summarization": "test"}, {"id": "17638_2", "event-summarization": "test"}, {"id": "17638_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14261_1", "event-summarization": "test"}, {"id": "14261_2", "event-summarization": "易某盗窃的外卖价值不大，但其付出的代价不小——目前他已被警方处治安拘留五日。"}]}
+{"summarizations": [{"id": "14739_1", "event-summarization": "test"}, {"id": "14739_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9386_1", "event-summarization": "test"}, {"id": "9386_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19370_1", "event-summarization": "近日，湖北省枣阳市检察院以涉嫌诈骗罪对犯罪嫌疑人赵某依法批准逮捕。"}, {"id": "19370_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15026_1", "event-summarization": "test"}, {"id": "15026_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16951_1", "event-summarization": "test"}, {"id": "16951_2", "event-summarization": "test"}, {"id": "16951_3", "event-summarization": "test"}, {"id": "16951_4", "event-summarization": "test"}, {"id": "16951_5", "event-summarization": "test"}, {"id": "16951_6", "event-summarization": "test"}, {"id": "16951_7", "event-summarization": "test"}, {"id": "16951_8", "event-summarization": "test"}, {"id": "16951_9", "event-summarization": "test"}, {"id": "16951_10", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18355_1", "event-summarization": "目前，陈斌与周宏灵也因偷盗罪被山口县地方检察机构起诉。"}, {"id": "18355_2", "event-summarization": "test"}, {"id": "18355_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14283_1", "event-summarization": "test"}, {"id": "14283_2", "event-summarization": "test"}, {"id": "14283_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17449_1", "event-summarization": "test"}, {"id": "17449_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1248_1", "event-summarization": "test"}, {"id": "1248_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18488_1", "event-summarization": "test"}, {"id": "18488_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "1498_1", "event-summarization": "北京京杭广场工地坍塌致死5人 项目正停工整顿。"}, {"id": "1498_2", "event-summarization": "当晚9时许，5人经抢救无效死亡。"}]}
+{"summarizations": [{"id": "11754_1", "event-summarization": "test"}, {"id": "11754_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9869_1", "event-summarization": "test"}, {"id": "9869_2", "event-summarization": "test"}, {"id": "9869_3", "event-summarization": "test"}, {"id": "9869_4", "event-summarization": "据此，一审法院以重大责任事故罪分别判处被告人严帮汝、黄买权各有期徒刑7年；"}, {"id": "9869_5", "event-summarization": "test"}, {"id": "9869_6", "event-summarization": "test"}, {"id": "9869_7", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5240_1", "event-summarization": "test"}, {"id": "5240_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4966_1", "event-summarization": "test"}, {"id": "4966_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19744_1", "event-summarization": "test"}, {"id": "19744_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5024_1", "event-summarization": "test"}, {"id": "5024_2", "event-summarization": "海淀法警强拆遭燃烧瓶袭击8月14日，杨某身体恢复，警方将其刑事拘留。"}, {"id": "5024_3", "event-summarization": "昨天，杨某、李某因涉嫌拒不执行判决、裁定罪被海淀检察院提起公诉。"}]}
+{"summarizations": [{"id": "1384_1", "event-summarization": "test"}, {"id": "1384_2", "event-summarization": "test"}, {"id": "1384_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18470_1", "event-summarization": "test"}, {"id": "18470_2", "event-summarization": "test"}, {"id": "18470_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "151_1", "event-summarization": "test"}, {"id": "151_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "12717_1", "event-summarization": "test"}, {"id": "12717_2", "event-summarization": "test"}, {"id": "12717_3", "event-summarization": "test"}, {"id": "12717_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8672_1", "event-summarization": "test"}, {"id": "8672_2", "event-summarization": "test"}, {"id": "8672_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5271_1", "event-summarization": "test"}, {"id": "5271_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7272_1", "event-summarization": "test"}, {"id": "7272_2", "event-summarization": "test"}, {"id": "7272_3", "event-summarization": "1月20日，该组织袭击了喀布尔洲际酒店，造成超过20人死亡。"}, {"id": "7272_4", "event-summarization": "1月20日，该组织袭击了喀布尔洲际酒店，造成超过20人死亡。"}]}
+{"summarizations": [{"id": "5181_1", "event-summarization": "受伤民警已住院治疗，郑某因涉嫌妨碍公务罪被刑事拘留。"}, {"id": "5181_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15542_1", "event-summarization": "test"}, {"id": "15542_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15117_1", "event-summarization": "test"}, {"id": "15117_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "15282_1", "event-summarization": "test"}, {"id": "15282_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "6263_1", "event-summarization": "2017年9月7日，墨西哥南部海域发生8.2级地震，造成98人死亡；"}, {"id": "6263_2", "event-summarization": "9月19日，墨西哥中部发生7.1级地震，造成369人死亡。"}, {"id": "6263_3", "event-summarization": "test"}, {"id": "6263_4", "event-summarization": "5级地震，全国多地震感明显，部分地区出现设施损坏，目前已造成一人死亡。"}, {"id": "6263_5", "event-summarization": "9月19日，墨西哥中部发生7.1级地震，造成369人死亡。"}, {"id": "6263_6", "event-summarization": "2017年9月7日，墨西哥南部海域发生8.2级地震，造成98人死亡；"}]}
+{"summarizations": [{"id": "18803_1", "event-summarization": "test"}, {"id": "18803_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "16265_1", "event-summarization": "test"}, {"id": "16265_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "171_1", "event-summarization": "test"}, {"id": "171_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5803_1", "event-summarization": "test"}, {"id": "5803_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19048_1", "event-summarization": "test"}, {"id": "19048_2", "event-summarization": "test"}, {"id": "19048_3", "event-summarization": "test"}, {"id": "19048_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11202_1", "event-summarization": "test"}, {"id": "11202_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18843_1", "event-summarization": "test"}, {"id": "18843_2", "event-summarization": "test"}, {"id": "18843_3", "event-summarization": "test"}, {"id": "18843_4", "event-summarization": "test"}, {"id": "18843_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8906_1", "event-summarization": "test"}, {"id": "8906_2", "event-summarization": "test"}, {"id": "8906_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19301_1", "event-summarization": "test"}, {"id": "19301_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "8098_1", "event-summarization": "test"}, {"id": "8098_2", "event-summarization": "test"}, {"id": "8098_3", "event-summarization": "test"}, {"id": "8098_4", "event-summarization": "test"}, {"id": "8098_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "3074_1", "event-summarization": "香港一个旅行团23日在菲律宾被枪手挟持，结果流血收场。"}, {"id": "3074_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14498_1", "event-summarization": "test"}, {"id": "14498_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9691_1", "event-summarization": "test"}, {"id": "9691_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "7296_1", "event-summarization": "test"}, {"id": "7296_2", "event-summarization": "test"}, {"id": "7296_3", "event-summarization": "test"}, {"id": "7296_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "11841_1", "event-summarization": "test"}, {"id": "11841_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18872_1", "event-summarization": "test"}, {"id": "18872_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "14874_1", "event-summarization": "2017年11月，陈某投案自首，因涉嫌故意伤害罪被逮捕。"}, {"id": "14874_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "9653_1", "event-summarization": "test"}, {"id": "9653_2", "event-summarization": "test"}, {"id": "9653_3", "event-summarization": "test"}, {"id": "9653_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "17646_1", "event-summarization": "test"}, {"id": "17646_2", "event-summarization": "test"}, {"id": "17646_3", "event-summarization": "test"}, {"id": "17646_4", "event-summarization": "test"}]}
+{"summarizations": [{"id": "4662_1", "event-summarization": "法国总理通报巴黎新一轮示威进展情况已逮捕481人"}, {"id": "4662_2", "event-summarization": "法国总理通报巴黎新一轮示威进展情况已逮捕481人"}]}
+{"summarizations": [{"id": "18724_1", "event-summarization": "test"}, {"id": "18724_2", "event-summarization": "test"}, {"id": "18724_3", "event-summarization": "test"}]}
+{"summarizations": [{"id": "18631_1", "event-summarization": "test"}, {"id": "18631_2", "event-summarization": "test"}, {"id": "18631_3", "event-summarization": "test"}, {"id": "18631_4", "event-summarization": "test"}, {"id": "18631_5", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5345_1", "event-summarization": "test"}, {"id": "5345_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "19210_1", "event-summarization": "test"}, {"id": "19210_2", "event-summarization": "test"}]}
+{"summarizations": [{"id": "5264_1", "event-summarization": "test"}, {"id": "5264_2", "event-summarization": "test"}, {"id": "5264_3", "event-summarization": "test"}]}
